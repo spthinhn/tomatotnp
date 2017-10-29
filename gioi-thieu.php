@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en-US">
+	<?php require_once('head.php'); ?>
+	<body class="shop">
+		<?php require_once('nav-mobile.php'); ?>
+		<div id="wrapper" class="wide-wrap">
+			<div class="offcanvas-overlay"></div>
+			<?php require_once('header.php'); ?>
+			<div class="content-container no-padding mobile-header">
+				<div class="heading-container" style="margin-bottom: 50px">
+					<div class="container heading-standar">
+						<div class="page-breadcrumb">
+							<ul class="breadcrumb">
+								<li><span><a href="/" class="home"><span>Trang chủ</span></a></span></li>
+								<li><span>Giới thiệu</span></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="container-full">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12 main-wrap">
+								<div class="main-content">
+									<article class="hentry">
+										<div class="hentry-wrap">
+											<div class="entry-header">
+												<h1 class="entry-title">Summer Classics in Positano</h1>
+												<div class="entry-meta icon-meta">
+													<span class="meta-date">
+														<time datetime="2015-08-11T06:27:22+00:00">
+															<i class="fa fa-clock-o"></i>August 11, 2015
+														</time>
+													</span>
+													<span class="meta-author">
+														<i class="fa fa-user"></i>By <a href="#">sitesao</a>
+													</span>
+													<span class="meta-category">
+														<i class="fa fa-folder-open-o"></i>In <a href="#">Nunc</a>
+													</span>
+													<span class="meta-comment">
+														<i class="fa fa-comment-o"></i>
+														<a href="#" class="meta-comments">0 Comment</a>
+													</span>
+												</div>
+											</div>
+											<div class="entry-content">
+												<p>
+													The summer holidays are wonderful. Dressing for them can be significantly less so: Packing light is always at a premium, but one never wants to feel high, dry, and seriously unstylish with all of the possible opportunities to pose for that most modern of vacation souvenirs, the fashionable Instagram.
+												</p>
+												<p>
+													<a href="images/blog/blog-11.jpg">
+														<img class="alignleft" src="images/blog/blog-11.jpg" alt="blog-11" width="300" height="300"/>
+													</a>
+												</p>
+												<p>
+													The fashion set stayed true to their roots this week, whether that be swirling around the interior of a river boat in floor-length Giambattista Valli, à la Bianca Brandolini D’Adda, louchely leaning against the scenery in innately covetable summer classics in Positano, as Lisa Love did, or heading for the beach in Louis Vuitton resort denim hot pants and monogrammed Speedy in tow, as Marie-Amélie Sauvé did (oh, the access!).
+												</p>
+												<p>&nbsp;</p>
+												<p>&nbsp;</p>
+												<p>&nbsp;</p>
+												<h3>Bianca Brandolini</h3>
+												<p>
+													<strong>Natasha Poly</strong> took in the ocean breeze in Formentera in a voluminous caftan, while Caroline Trentini’s white tee, Vuitton skirt, and Stan Smiths in Sao Paulo were a decidedly more city-friendly take on early August style (and will certainly transition more easily into fall). And while we treasure these lazy, late summer days, fall—and its sartorial demands—is just around the corner: For inspiration, look no further than little North West’s latest wardrobe addition, a clutch of pint-sized Balmain blazers that will have the tot segueing into the season sans problème.
+												</p>
+												<p>&nbsp;</p>
+												<p class="text-center">
+													<a href="images/blog/blog-13.jpg">
+														<img src="images/blog/blog-13.jpg" alt="blog-13" width="500" height="500"/>
+													</a>
+												</p>
+												<p class="text-center">
+													<a href="images/blog/blog-15.jpg">
+														<img src="images/blog/blog-15.jpg" alt="blog-15" width="500" height="500"/>
+													</a>
+												</p>
+												<h3>Aenean a auctor mi.</h3>
+												<p>
+													Cras feugiat luctus nulla vitae posuere. Suspendisse potenti. Morbi dignissim, leo non mollis ultricies, risus ipsum vulputate leo, quis rhoncus libero orci quis ex. Donec molestie convallis dictum. Praesent at dapibus massa. Ut placerat enim vitae porta rutrum. Nullam faucibus volutpat nunc vitae cursus. Suspendisse diam ipsum, ultricies vel posuere at, sodales et lorem. Nulla non ornare nisi, sed condimentum lorem. Morbi sed vehicula magna. Donec vitae ultricies velit, sit amet sollicitudin ligula.
+												</p>
+											</div>
+										</div>
+									</article>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<?php require_once('footer.php'); ?>
+		</div>
+		<?php require_once('script.php'); ?>
+	</body>
+</html>
