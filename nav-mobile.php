@@ -4,7 +4,7 @@
 			<ul class="offcanvas-nav">
 				<li><a href="gioi-thieu.php">Giới thiệu</a></li>
 				<li class="menu-item-has-children dropdown">
-					<a href="#" class="dropdown-hover">Sản phẩm <span class="caret"></span></a>
+					<a href="san-pham.php" class="dropdown-hover">Sản phẩm <span class="caret"></span></a>
 					<ul class="dropdown-menu">
 						<li><a href="bot-pho-mai.php">Bột phô mai</a></li>
 						<li><a href="bot-pho-mai.php">Giá</a></li>
