@@ -13,7 +13,7 @@
 	<link rel='stylesheet' href='css/shop.css' type='text/css' media='all'/>
 	<link rel='stylesheet' href='css/owl.carousel.css' type='text/css' media='all'/>
 	<link rel='stylesheet' href='css/layout.css' type='text/css' media='all'/>
-	
+	<link rel="stylesheet" type="text/css" href="css/elastic_grid.min.css" />
 	
 	<style type="text/css">
 		.owl-prev {

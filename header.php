@@ -59,7 +59,7 @@
 										</li>
 										<li><a href="tin-tuc.php"><span class="underline">Tin tức</span></a></li>
 										<li class="menu-item-has-children dropdown">
-											<a href="thu-vien.php" class="dropdown-hover">
+											<a href="hinh-anh.php" class="dropdown-hover">
 												<span class="underline">Thư viện</span> <span class="caret"></span>
 											</a>
 											<ul class="dropdown-menu">

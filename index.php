@@ -204,7 +204,7 @@
 												</a>
 											</div>
 											<div class="col-sm-6 footer-service-item">
-												<a class="footer-service-item-i" href="thu-vien.php">
+												<a class="footer-service-item-i" href="hinh-anh.php">
 													<i class="footer-service-icon fa fa-life-bouy"></i>
 													<h3 class="footer-service-title">Thư viện</h3>
 													<span class="footer-service-text">

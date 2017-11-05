@@ -13,7 +13,7 @@
 				</li>
 				<li><a href="tin-tuc.php">Tin tức</a></li>
 				<li class="menu-item-has-children dropdown">
-					<a href="thu-vien.php" class="dropdown-hover">Thư viện <span class="caret"></span></a>
+					<a href="hinh-anh.php" class="dropdown-hover">Thư viện <span class="caret"></span></a>
 					<ul class="dropdown-menu">
 						<li><a href="hinh-anh.php">Hình ảnh</a></li>
 						<li><a href="video.php">Video</a></li>
