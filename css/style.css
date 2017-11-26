@@ -12044,3 +12044,10 @@ img.grayscale:hover {
     margin-top: 75px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .no-padding {
+    padding: 0px;
+    margin: 0px;
+  }
+}

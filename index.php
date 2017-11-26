@@ -108,14 +108,14 @@
 											<div class="owl-carousel owl-theme">
 									            <div class="item">
 									            	<div class="wall-col title-in product-category-wall">
-														<a href="bot-pho-mai.php">
+														<a href="/bot-pho-mai.php">
 															<div class="product-category-grid-item">
 																<div class="product-category-grid-item-wrap">
 																	<div class="product-category-grid-featured-wrap">
-																		<img src="images/categories/category-1.jpg" width="100%">
+																		<img src="/images/bot-pho-mai/bpmtt03_1kg.jpg" width="100%">
 																	</div>
 																	<div class="product-category-grid-featured-summary">
-																		<h3>Giới thiệu1<small>Tomato TNP </small></h	3>
+																		<h3>Bột phô mai<small>Tomato TNP </small></h	3>
 																	</div>
 																</div>
 															</div>

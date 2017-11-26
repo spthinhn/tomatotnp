@@ -258,75 +258,8 @@
 					</div>
 				</div>
 			</div>
-			<footer id="footer" class="footer">
-				<div class="footer-info">
-					<div class="container">
-						<div class="row">
-							<div class="col-sm-3">
-								<a href="#"><img alt="The DMCS" src="images/logo2.png"></a>
-								<div class="footer-social text-center">
-									<a href="#" title="Facebook" target="_blank">
-										<i class="fa fa-facebook facebook-bg-hover"></i>
-									</a>
-									<a href="#" title="Twitter" target="_blank">
-										<i class="fa fa-twitter twitter-bg-hover"></i>
-									</a>
-									<a href="#" title="Google+" target="_blank">
-										<i class="fa fa-google-plus google-plus-bg-hover"></i>
-									</a>
-									<a href="#" title="Pinterest" target="_blank">
-										<i class="fa fa-pinterest pinterest-bg-hover"></i>
-									</a>
-									<a href="#" title="RSS" target="_blank">
-										<i class="fa fa-rss rss-bg-hover"></i>
-									</a>
-									<a href="#" title="Instagram" target="_blank">
-										<i class="fa fa-instagram instagram-bg-hover"></i>
-									</a>
-								</div>
-							</div>
-							<div class="col-sm-3 col-sm-offset-1">
-								<div class="widget widget_text">
-									<h3 class="widget-title"><span>The Store</span></h3>
-									<div class="textwidget">
-										<p><i class="fa fa-map-marker"></i> No 68/12, Tower Street,New York, USA</p>
-										<p><i class="fa fa-phone"></i> (012) 1234 7824</p>
-										<p>
-											<i class="fa fa-envelope"></i> <a href="mailto:email@domain.com">email@domain.com</a>
-										</p>
-										
-									</div>
-								</div>
-							</div>
-							<div class="col-sm-3 col-sm-offset-1">
-								<img src="images/chungchi.png" width="100%" />
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FPh%25C3%25B4-Mai-H%25C3%25A0n-Qu%25E1%25BB%2591c%2F824398560926201&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=75" scrolling="no" style="border:none; overflow:hidden; height:75px;" allowtransparency="true" frameborder="0"></iframe>
-							</div>
-						</div>
-					</div>
-				</div>
-			</footer>
+			<?php require_once('footer.php'); ?>
 		</div>
-
-		<script type='text/javascript' src='http://code.jquery.com/jquery-1.11.3.min.js'></script>
-		<script type='text/javascript' src='js/jquery-migrate.min.js'></script>
-		<script type='text/javascript' src='js/jquery.themepunch.tools.min.js'></script>
-		<script type='text/javascript' src='js/jquery.themepunch.revolution.min.js'></script>
-		<script type='text/javascript' src='js/easing.min.js'></script>
-		<script type='text/javascript' src='js/imagesloaded.pkgd.min.js'></script>
-		<script type='text/javascript' src='js/bootstrap.min.js'></script>
-		<script type='text/javascript' src='js/superfish-1.7.4.min.js'></script>
-		<script type='text/javascript' src='js/jquery.appear.min.js'></script>
-		<script type='text/javascript' src='js/script.js'></script>
-		<script type='text/javascript' src='js/swatches-and-photos.js'></script>
-		<script type='text/javascript' src='js/jquery.prettyPhoto.min.js'></script>
-		<script type='text/javascript' src='js/jquery.prettyPhoto.init.min.js'></script>
-		<script type='text/javascript' src='js/jquery.selectBox.min.js'></script>
-		<script type='text/javascript' src='js/jquery.parallax.js'></script>
-		<script type='text/javascript' src='js/jquery.touchSwipe.min.js'></script>
-		<script type='text/javascript' src='js/jquery.transit.min.js'></script>
-		<script type='text/javascript' src='js/jquery.carouFredSel.min.js'></script>
-		<script type='text/javascript' src='js/isotope.pkgd.min.js'></script>
-		<script type='text/javascript' src='js/jquery.magnific-popup.min.js'></script>
-</body>
+		<?php require_once('script.php'); ?>
+	</body>
 </html>

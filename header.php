@@ -12,11 +12,11 @@
 								    width: 21px;
 								}
 							</style>
-							<a href="tel:01649692858" style="width: auto">
-								<i class="fa fa-phone"></i><span> 01649692858</span>
+							<a href="tel:0907091003" style="width: auto">
+								<i class="fa fa-phone"></i><span> 090 709 1003</span>
 							</a>
-							<a href="tel:01649692858" style="width: auto">
-								<i class="fa fa-envelope-o"></i><span> cocungkhongcho@gmail.com</span>
+							<a href="mailto:tomatotnp@gmail.com" style="width: auto">
+								<i class="fa fa-envelope-o"></i><span> tomatotnp@gmail.com</span>
 							</a>
 						</div>
 					</div>
@@ -39,35 +39,35 @@
 										<span class="icon-bar bar-bottom"></span>
 									</button>
 									<a class="navbar-brand" href="./">
-										<img class="logo" alt="The DMCS" src="images/logo2.png">
-										<img class="logo-fixed" alt="The DMCS" src="images/logo2.png">
-										<img class="logo-mobile" alt="The DMCS" src="images/logo2.png">
+										<img class="logo" alt="The DMCS" src="/images/Logo_TOMATO_Slogan 2.png">
+										<img class="logo-fixed" alt="The DMCS" src="/images/Logo_TOMATO_Slogan 2.png">
+										<img class="logo-mobile" alt="The DMCS" src="/images/Logo_TOMATO_Slogan 2.png">
 									</a>
 								</div>
 								<nav class="collapse navbar-collapse primary-navbar-collapse">
 									<ul class="nav navbar-nav primary-nav">
-										<li><a href="gioi-thieu.php"><span class="underline">Giới thiệu</span></a></li>
+										<li><a href="/gioi-thieu.php"><span class="underline">Giới thiệu</span></a></li>
 										<li class="menu-item-has-children dropdown">
-											<a href="san-pham.php" class="dropdown-hover">
+											<a href="/san-pham.php" class="dropdown-hover">
 												<span class="underline">Sản phẩm</span> <span class="caret"></span>
 											</a>
 											<ul class="dropdown-menu">
-												<li><a href="bot-pho-mai.php">Bột phô mai</a></li>
-												<li><a href="bot-pho-mai.php">Giá</a></li>
-												<li><a href="bot-pho-mai.php">Bột đậu xanh</a></li>
+												<li><a href="/bot-pho-mai.php">Bột phô mai</a></li>
+												<li><a href="/bot-pho-mai.php">Giá</a></li>
+												<li><a href="/bot-pho-mai.php">Bột đậu xanh</a></li>
 											</ul>
 										</li>
-										<li><a href="tin-tuc.php"><span class="underline">Tin tức</span></a></li>
+										<li><a href="/tin-tuc.php"><span class="underline">Tin tức</span></a></li>
 										<li class="menu-item-has-children dropdown">
-											<a href="hinh-anh.php" class="dropdown-hover">
+											<a href="/hinh-anh.php" class="dropdown-hover">
 												<span class="underline">Thư viện</span> <span class="caret"></span>
 											</a>
 											<ul class="dropdown-menu">
-												<li><a href="hinh-anh.php">Hình ảnh</a></li>
-												<li><a href="video.php">Video</a></li>
+												<li><a href="/hinh-anh.php">Hình ảnh</a></li>
+												<li><a href="/video.php">Video</a></li>
 											</ul>
 										</li>
-										<li><a href="lien-he.php"><span class="underline">Liên hệ</span></a></li>
+										<li><a href="/lien-he.php"><span class="underline">Liên hệ</span></a></li>
 									</ul>
 								</nav>
 							</div>

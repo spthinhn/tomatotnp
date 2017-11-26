@@ -20,32 +20,39 @@
 											<div class="row contact-form-wrapper">
 												<div class="col-sm-12">
 													<div class="title">
-														<h2>GET IN TOUCH</h2>
+														<h2>CÔNG TY TNHH THƯƠNG MẠI XUẤT NHẬP KHẨU TOMATO T&P</h2>
 													</div>
 													<form>
 														<div class="row">
-															<div class="col-sm-6">
-																<div>Your Name (required)<br />
+															<div class="col-sm-12">
+																<div>Họ tên<br />
 															    	<p class="form-control-wrap your-name">
 															    		<input type="text" name="your-name" value="" size="40" class="form-control text validates-as-required" />
 															    	</p>
 															    </div>
 															</div>
-															<div class="col-sm-6">
-																<div>Your Email (required)<br />
+															<div class="col-sm-12">
+																<div>Email<br />
 														    		<p class="form-control-wrap your-email">
 														    			<input type="email" name="your-email" value="" size="40" class="form-control text email validates-as-required validates-as-email" />
 														    		</p>
 														    	</div>
 															</div>
 															<div class="col-sm-12">
-																<div>Your Message<br />
+																<div>Số điện thoại<br />
+														    		<p class="form-control-wrap your-email">
+														    			<input type="email" name="your-email" value="" size="40" class="form-control text email validates-as-required validates-as-email" />
+														    		</p>
+														    	</div>
+															</div>
+															<div class="col-sm-12">
+																<div>Nội dung<br />
 														    		<p class="form-control-wrap your-message">	<textarea name="your-message" cols="40" rows	="10" class="form-control textarea"></textarea>
 														    		</p>
 														    	</div>
 															</div>
 														</div>
-														<input type="submit" value="Send" class="form-control submit" />
+														<input type="submit" value="Gửi" class="form-control submit" />
 													</form>
 												</div>
 											</div>
@@ -54,7 +61,7 @@
 											<div class="row contact-info">
 												<div class="col-sm-12">
 													<div class="title">
-														<h4>NEED SUPPORT</h4>
+														<h4>Bạn cần hỗ trợ ?</h4>
 													</div>
 													<div class="separator content_element separator_align_center sep_width_100 sep_pos_align_center separator_no_text">
 														<span class="sep_holder sep_holder_l">
@@ -67,16 +74,16 @@
 													<div class="content_element">
 														<div class="support-icon">
 															<i class="fa fa-map-marker"></i>
-															69 New York,CA, 1239 USA
+															49/2/2F1 đường 51, phường 14, quận Gò Vấp, Hồ Chí Minh
 														</div>
 														<div class="support-icon">
 															<i class="fa fa-phone"></i>
-															(012) 1234 7824
+															(08) &nbsp; 99342179
 														</div>
 														<div class="support-icon">
 															<i class="fa fa-envelope-o"></i>
 															<a href="mailto:email@domain.com">
-																email@domain.com
+																tomatotnp@gmail.com
 															</a>
 														</div>
 													</div>

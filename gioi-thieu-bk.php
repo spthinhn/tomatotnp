@@ -47,47 +47,27 @@
 														<p>
 															Với hơn 5 năm kinh nghiệm trong ngành, đến nay chúng tôi đã và đang có những bước phát triển mạnh mẽ về dòng sản phẩm bột phô mai cho người tiêu dùng Việt Nam. Bột phô mai Tornado có nhiều chủng loại và hương vị khác nhau.
 														</p>
+													</div>
+												</div>
+												<div class="col-xs-12 no-padding">
+													<div class="col-md-9 no-padding">
 														<p>
 															Hiện nay, các sản phẩm của chúng tôi đã có mặt trên khắp mọi miền đất nước với những đại lý lớn phân phối ở các tỉnh thành như: Tp. Hồ Chí Minh, Đà Nẵng, Hà Nội, Nha Trang và các tỉnh miền Tây...
 														</p>
+													</div>
+													<div class="col-md-3 no-padding">
+														<img class="img-responsive" src="images/gioi-thieu/hinhxuong05.jpg" alt="blog-11" width="100%"/>
+													</div>
+												</div>
+												<div class="col-xs-12 no-padding">
+													<div class="col-md-3 no-padding">
+														<img class="img-responsive" src="images/gioi-thieu/hinhxuong06.jpg" alt="blog-11" width="100%"/>
+													</div>
+													<div class="col-md-9 no-padding">
 														<p>
 															Khách hàng của TOMATO chủ yếu là các nhà hàng, quán ăn, các công ty thực phẩm bánh kẹo, công ty gia liệu hương vị, chuỗi cửa hàng trà sữa và đặc biệt là các quầy hàng bán lẻ khoai tây lốc xoáy, khoai tây lắc trên khắp mọi miền đất nước.
 														</p>
 													</div>
-												</div>
-												<div class="col-xs-12 no-padding" style="margin-top: 10px">
-													<div class="col-md-6 no-padding">
-														<img class="img-responsive" src="images/gioi-thieu/hinhxuong05.jpg" alt="blog-11" width="100%"/>
-													</div>
-													<div class="col-md-6 no-padding">
-														<img class="img-responsive" src="images/gioi-thieu/hinhxuong06.jpg" alt="blog-11" width="100%"/>
-													</div>
-												</div>
-												<div class="col-xs-12 no-padding" style="margin-top: 10px">
-													<div class="col-md-9 no-padding">
-														<p>
-															<strong>TẦM NHÌN:</strong> trở thành và được công nhận là công ty hàng đầu trong lĩnh vực mà chúng tôi đang kinh doanh.
-														</p>
-														<p>
-															<strong>SỨ MỆNH:</strong> Chúng tôi cam kết luôn tạo ra các sản phẩm với chất lượng tốt nhất. Nhờ đó, không chỉ chúng tôi mà đối tác và cộng đồng xung quanh sẽ có được một cuộc sống ý nghĩa hơn, tốt đẹp hơn và thịnh vượng hơn
-														</p>
-													</div>
-													<div class="col-md-3 no-padding">
-														<img class="img-responsive" src="images/gioi-thieu/Logo_TOMATO_Slogan 2.png" alt="blog-11" width="100%"/>
-													</div>
-												</div>
-												<div class="col-xs-12 no-padding" style="margin-top: 10px">
-													</p>
-														Màu đỏ thể hiện sự tâm huyết của chúng tôi.
-													</p>
-													<p>
-														Bao gồm chín cánh đi từ nhỏ đến lớn: Chúng tôi luôn bắt đầu mọi việc từ nhỏ đến lớn, việc nhỏ phải làm tốt nhất thì việc lớn mới thành công, không những thế còn thể hiện cho việc công ty chúng tôi luôn khao khát lớn mạnh.
-													<p>
-													<p>
-														Slogan: 
-														<strong>"Mang tâm huyết vào chất lượng": </strong> chất lượng vào sản phẩm, chất lượng vào dịch vụ. Mỗi sản phẩm chúng tôi làm ra đều mang trong đó nhiệt huyết và chữ Tâm.
-														Đó chính là phương châm làm việc của công ty chúng tôi.
-													</p>
 												</div>
 											</div>
 										</div>
