@@ -7,7 +7,7 @@
 			<div class="offcanvas-overlay"></div>
 			<?php require_once('header.php'); ?>
 			<div class="content-container no-padding mobile-header">
-				<div class="heading-container heading-resize heading-no-button">
+				<div class="heading-container heading-resize heading-no-button mobile-margin-top">
 					<img src="/images/bot-pho-mai/cover.jpg" width="100%">
 				</div>
 				<div class="container">

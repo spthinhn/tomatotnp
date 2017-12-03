@@ -4,7 +4,7 @@
 	<title>Tomato TNP</title>
 	<link rel="shortcut icon" href="images/favicon.png">
 
-	<link rel='stylesheet' href='/css/bootstrap.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='/css/bootstrap.css' type='text/css' media='all' />
 	<link rel='stylesheet' href='/css/settings.css' type='text/css' media='all' />
 	<link rel='stylesheet' href='/css/swatches-and-photos.css' type='text/css' media='all'/>
 	<link rel='stylesheet' href='/css/font-awesome.min.css' type='text/css' media='all'/>

@@ -7,8 +7,8 @@
 			<div class="offcanvas-overlay"></div>
 			<?php require_once('header.php'); ?>
 			<div class="content-container no-padding mobile-header">
-				<div class="heading-container heading-resize heading-no-button">
-					<img src="images/slideshow/2.jpg" width="100%">
+				<div class="heading-container heading-resize heading-no-button mobile-margin-top">
+					<img src="/images/tin_tuc.jpg" width="100%">
 				</div>
 				<div class="container" style="margin-top: 50px">
 					<div class="row">
@@ -28,33 +28,21 @@
 														<div class="entry-info">
 															<div class="entry-header">
 																<h2 class="entry-title">
-																	<a href="tin-tuc-chi-tiet.php">Monogrammed Speedy in Tow </a>
+																	<a href="tin-tuc-chi-tiet.php">LÀM THẾ NÀO ĐỂ BẢO QUẢN BỘT PHÔ MAI</a>
 																</h2>
-																<div class="entry-meta icon-meta">
-																	<span class="meta-date">
-																		<time datetime="2015-08-11T06:27:49+00:00">
-																			<i class="fa fa-clock-o"></i>August 11, 2015
-																		</time>
-																	</span>
-																	<span class="meta-author">
-																		<i class="fa fa-user"></i>By 
-																		<a href="tin-tuc-chi-tiet.php">sitesao</a>
-																	</span>
-																	<span class="meta-category">
-																		<i class="fa fa-folder-open-o"></i>In 
-																		<a href="tin-tuc-chi-tiet.php">Aliquam</a>, <a href="tin-tuc-chi-tiet.php">Nunc</a>
-																	</span>
-																	<span class="meta-comment">
-																		<i class="fa fa-comment-o"></i>
-																		<a href="#" class="meta-comments">0 Comment</a>
-																	</span>
-																</div>
 															</div>
 															<div class="entry-content">
-																The summer holidays are wonderful. Dressing for them can be significantly less so: Packing light is always at a premium, but one never wants to feel high, dry, and seriously...
+																<ol>
+																	<li>
+																		KHÔNG nên để bột ở nơi ẩm ướt ( ví dụ như gần bồn rửa chén bát) và trong ngăn đá tủ lạnh.
+																	</li>
+																	<li>
+																		KHÔNG để bột tiếp xúc trực tiếp không khí và ánh nắng, nghĩa là bạn phải đậy kín và để bột nơi thoáng mát.
+																	</li>
+																</ol>
 															</div>
 															<div class="readmore-link">
-																<a href="tin-tuc-chi-tiet.php">Read More</a>
+																<a href="tin-tuc-chi-tiet.php">Tìm hiểu thêm</a>
 															</div>
 														</div>
 													</div>

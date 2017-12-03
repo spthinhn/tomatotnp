@@ -2985,11 +2985,7 @@ input[type="button"].btn-block {
   -o-transition: transform 0.4s;
   transition: transform 0.4s;
 }
-@media (min-width: 900px) {
-  .navbar-toggle {
-    display: none;
-  }
-}
+
 .navbar-header .navbar-toggle {
   border-color: transparent;
 }

@@ -7,8 +7,8 @@
 			<div class="offcanvas-overlay"></div>
 			<?php require_once('header.php'); ?>
 			<div class="content-container no-padding mobile-header">
-				<div class="heading-container heading-resize heading-no-button">
-					<img src="images/slideshow/2.jpg" width="100%">
+				<div class="heading-container heading-resize heading-no-button mobile-margin-top">
+					<img src="/images/lien-he-cover.jpg" width="100%">
 				</div>
 				<div class="container" style="margin-top: 50px">
 					<div class="row">
@@ -78,7 +78,9 @@
 														</div>
 														<div class="support-icon">
 															<i class="fa fa-phone"></i>
-															(08) &nbsp; 99342179
+															<a href="tel:0899342179">
+																08 &nbsp; 99342179
+															</a>
 														</div>
 														<div class="support-icon">
 															<i class="fa fa-envelope-o"></i>

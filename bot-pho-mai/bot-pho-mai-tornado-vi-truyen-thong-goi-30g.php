@@ -45,13 +45,6 @@
 																	</li>
 																	<li class="caroufredsel-item">
 																		<div class="thumb">
-																			<a href="/images/bot-pho-mai/bpmtt02_30g.jpg" data-rel="magnific-popup-verticalfit" title="Product-detail">
-																				<img width="100%" src="/images/bot-pho-mai/bpmtt02_30g.jpg" />
-																			</a>
-																		</div>
-																	</li>
-																	<li class="caroufredsel-item">
-																		<div class="thumb">
 																			<a href="/images/bot-pho-mai/bpmtt03_30g.jpg" data-rel="magnific-popup-verticalfit" title="Product-detail">
 																				<img width="100%" src="/images/bot-pho-mai/bpmtt03_30g.jpg" />
 																			</a>
@@ -77,13 +70,6 @@
 																	<li class="caroufredsel-item">
 																		<div class="thumb">
 																			<a href="#" data-rel="1" title="Product-detail">
-																				<img width="100%" src="/images/bot-pho-mai/bpmtt02_100g.jpg"/>
-																			</a>
-																		</div>
-																	</li>
-																	<li class="caroufredsel-item">
-																		<div class="thumb">
-																			<a href="#" data-rel="1" title="Product-detail">
 																				<img width="100%" src="/images/bot-pho-mai/bpmtt03_100g.jpg"/>
 																			</a>
 																		</div>
@@ -96,7 +82,7 @@
 											</div>
 											<div class="col-md-4 col-sm-6 entry-summary">
 												<div class="summary">
-													<h1 class="product_title entry-title">Bột phô mai Tornado vị truyền thống (gói 100g)</h1>
+													<h1 class="product_title entry-title">Bột phô mai Tornado vị truyền thống (gói 30g)</h1>
 													<p class="price"><span class="amount"><strong>Giá: </strong>Liên hệ</span></p>
 													<div class="product-excerpt">
 														<p>

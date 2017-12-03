@@ -40,10 +40,10 @@
 													</div>
 												</div>
 												<div class="col-xs-12 no-padding">
-													<div class="col-md-3 no-padding">
+													<div class="col-md-4 no-padding">
 														<img class="img-responsive" src="images/gioi-thieu/doi-tac-han-quoc.jpg" alt="blog-11" width="100%"/>
 													</div>
-													<div class="col-md-9 no-padding">
+													<div class="col-md-8 no-padding">
 														<p>
 															Với hơn 5 năm kinh nghiệm trong ngành, đến nay chúng tôi đã và đang có những bước phát triển mạnh mẽ về dòng sản phẩm bột phô mai cho người tiêu dùng Việt Nam. Bột phô mai Tornado có nhiều chủng loại và hương vị khác nhau.
 														</p>
@@ -64,7 +64,7 @@
 													</div>
 												</div>
 												<div class="col-xs-12 no-padding" style="margin-top: 10px">
-													<div class="col-md-9 no-padding">
+													<div class="col-md-12 no-padding">
 														<p>
 															<strong>TẦM NHÌN:</strong> trở thành và được công nhận là công ty hàng đầu trong lĩnh vực mà chúng tôi đang kinh doanh.
 														</p>
@@ -72,7 +72,7 @@
 															<strong>SỨ MỆNH:</strong> Chúng tôi cam kết luôn tạo ra các sản phẩm với chất lượng tốt nhất. Nhờ đó, không chỉ chúng tôi mà đối tác và cộng đồng xung quanh sẽ có được một cuộc sống ý nghĩa hơn, tốt đẹp hơn và thịnh vượng hơn
 														</p>
 													</div>
-													<div class="col-md-3 no-padding">
+													<div class="col-md-4 col-md-offset-4 no-padding">
 														<img class="img-responsive" src="images/gioi-thieu/Logo_TOMATO_Slogan 2.png" alt="blog-11" width="100%"/>
 													</div>
 												</div>

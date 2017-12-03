@@ -45,13 +45,6 @@
 																	</li>
 																	<li class="caroufredsel-item">
 																		<div class="thumb">
-																			<a href="/images/bot-pho-mai/bpmtt02_100g.jpg" data-rel="magnific-popup-verticalfit" title="Product-detail">
-																				<img width="100%" src="/images/bot-pho-mai/bpmtt02_100g.jpg" />
-																			</a>
-																		</div>
-																	</li>
-																	<li class="caroufredsel-item">
-																		<div class="thumb">
 																			<a href="/images/bot-pho-mai/bpmtt03_100g.jpg" data-rel="magnific-popup-verticalfit" title="Product-detail">
 																				<img width="100%" src="/images/bot-pho-mai/bpmtt03_100g.jpg" />
 																			</a>
@@ -71,13 +64,6 @@
 																		<div class="thumb">
 																			<a href="#" data-rel="1" title="Product-detail">
 																				<img width="100%" src="/images/bot-pho-mai/bpmtt01_100g.jpg"/>
-																			</a>
-																		</div>
-																	</li>
-																	<li class="caroufredsel-item">
-																		<div class="thumb">
-																			<a href="#" data-rel="1" title="Product-detail">
-																				<img width="100%" src="/images/bot-pho-mai/bpmtt02_100g.jpg"/>
 																			</a>
 																		</div>
 																	</li>

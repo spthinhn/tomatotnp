@@ -13,7 +13,7 @@
 							<ul class="breadcrumb">
 								<li><span><a href="/" class="home"><span>Trang chủ</span></a></span></li>
 								<li><span><a href="tin-tuc.php" class="home"><span>Tin tức </span></a></span></li>
-								<li><span>Hướng dẫn sử dụng bột phô mai </span></li>
+								<li><span>LÀM THẾ NÀO ĐỂ BẢO QUẢN BỘT PHÔ MAI</span></li>
 							</ul>
 						</div>
 					</div>
@@ -24,68 +24,79 @@
 							<div class="main-content">
 								<article class="hentry">
 									<div class="hentry-wrap">
-										<div class="entry-featured">
-											<img width="800" height="800" src="images/blog/blog-9.jpg" alt="blog-9"/>
-										</div>
 										<div class="entry-header">
-											<h1 class="entry-title">Summer Classics in Positano</h1>
-											<div class="entry-meta icon-meta">
-												<span class="meta-date">
-													<time datetime="2015-08-11T06:27:22+00:00">
-														<i class="fa fa-clock-o"></i>August 11, 2015
-													</time>
-												</span>
-												<span class="meta-author">
-													<i class="fa fa-user"></i>By <a href="#">sitesao</a>
-												</span>
-												<span class="meta-category">
-													<i class="fa fa-folder-open-o"></i>In <a href="#">Nunc</a>
-												</span>
-												<span class="meta-comment">
-													<i class="fa fa-comment-o"></i>
-													<a href="#" class="meta-comments">0 Comment</a>
-												</span>
-											</div>
+											<h1 class="entry-title">LÀM THẾ NÀO ĐỂ BẢO QUẢN BỘT PHÔ MAI</h1>
 										</div>
 										<div class="entry-content">
-											<p>
-												The summer holidays are wonderful. Dressing for them can be significantly less so: Packing light is always at a premium, but one never wants to feel high, dry, and seriously unstylish with all of the possible opportunities to pose for that most modern of vacation souvenirs, the fashionable Instagram.
-											</p>
-											<p>
-												<a href="images/blog/blog-11.jpg">
-													<img class="alignleft" src="images/blog/blog-11.jpg" alt="blog-11" width="300" height="300"/>
-												</a>
-											</p>
-											<p>
-												The fashion set stayed true to their roots this week, whether that be swirling around the interior of a river boat in floor-length Giambattista Valli, à la Bianca Brandolini D’Adda, louchely leaning against the scenery in innately covetable summer classics in Positano, as Lisa Love did, or heading for the beach in Louis Vuitton resort denim hot pants and monogrammed Speedy in tow, as Marie-Amélie Sauvé did (oh, the access!).
-											</p>
-											<p>&nbsp;</p>
-											<p>&nbsp;</p>
-											<p>&nbsp;</p>
-											<h3>Bianca Brandolini</h3>
-											<p>
-												<strong>Natasha Poly</strong> took in the ocean breeze in Formentera in a voluminous caftan, while Caroline Trentini’s white tee, Vuitton skirt, and Stan Smiths in Sao Paulo were a decidedly more city-friendly take on early August style (and will certainly transition more easily into fall). And while we treasure these lazy, late summer days, fall—and its sartorial demands—is just around the corner: For inspiration, look no further than little North West’s latest wardrobe addition, a clutch of pint-sized Balmain blazers that will have the tot segueing into the season sans problème.
-											</p>
-											<p>&nbsp;</p>
-											<p class="text-center">
-												<a href="images/blog/blog-13.jpg">
-													<img src="images/blog/blog-13.jpg" alt="blog-13" width="500" height="500"/>
-												</a>
-											</p>
-											<p class="text-center">
-												<a href="images/blog/blog-15.jpg">
-													<img src="images/blog/blog-15.jpg" alt="blog-15" width="500" height="500"/>
-												</a>
-											</p>
-											<h3>Aenean a auctor mi.</h3>
-											<p>
-												Cras feugiat luctus nulla vitae posuere. Suspendisse potenti. Morbi dignissim, leo non mollis ultricies, risus ipsum vulputate leo, quis rhoncus libero orci quis ex. Donec molestie convallis dictum. Praesent at dapibus massa. Ut placerat enim vitae porta rutrum. Nullam faucibus volutpat nunc vitae cursus. Suspendisse diam ipsum, ultricies vel posuere at, sodales et lorem. Nulla non ornare nisi, sed condimentum lorem. Morbi sed vehicula magna. Donec vitae ultricies velit, sit amet sollicitudin ligula.
-											</p>
+											<div class="col-sm-12">
+												<p>
+													Bạn sẽ nhận thấy rằng có 2 nguyên tắc chung khi bảo quản bột phô mai là:
+												</p>
+												<p>
+													1. KHÔNG nên để bột ở nơi ẩm ướt ( ví dụ như gần bồn rửa chén bát) và trong ngăn đá tủ lạnh.
+												</p>
+												<p>
+													2. KHÔNG để bột tiếp xúc trực tiếp không khí và ánh nắng, nghĩa là bạn phải đậy kín và để bột nơi thoáng mát.
+												</p>
+												<p>
+													Từ đó tôi sẽ hướng dẫn bạn 2 cách để bảo quản bột phô như sau:												
+												</p>
+												<p>
+													Nếu bảo quản đúng cách thì hạn sử dụng lên đến 06 tháng kể từ khi mở bao bi.
+												</p>
+												<p>
+													<b>Cách 1</b>: Bảo quản bột ngay trong bao bì sản phẩm.
+												</p>
+												<p>
+													Đối với túi bạc không có khóa kéo (zipper) sau khi sử dụng, bạn chỉ cần gấp nếp 3 lần và buộc lại bằng thun để cố định. Sau đó bạn để túi trong tủ lạnh ( ngăn mát) hoặc để nơi thoáng mát khô ráo, tránh ánh nắng trực tiếp.
+												</p>
+											</div>
+											<div class="col-sm-3">
+												<img width="100%" src="http://twistpotato.vn/public/icon/images/bpmbt.jpg">
+											</div>
+											<div class="col-sm-12">
+												<p>
+													Đối với loại túi bạc có khóa kéo (zipper) thì trước khi kéo khóa lại, bạn hãy dùng tay đẩy hết không khí ra ngoài.  Sau đó bạn để túi trong tủ lạnh ( ngăn mát) hoặc để nơi thoáng mát khô ráo, tránh ánh nắng trực tiếp.
+												</p>
+											</div>
+											<div class="col-sm-3">
+												<img width="100%" src="http://twistpotato.vn/public/icon/images/bpmbt.jpg">
+											</div>
+											<div class="col-sm-12">
+												<p>
+													Không khí đã được đẩy hết ra ngoài
+												</p>
+											</div>
+											<div class="col-sm-3">
+												<img width="100%" src="http://twistpotato.vn/public/icon/images/bpmnokk.jpg">
+											</div>
+											<div class="col-sm-12">
+												<p>
+													Không khí vẫn còn trong túi
+												</p>
+											</div>
+											<div class="col-sm-3">
+												<img width="100%" src="http://twistpotato.vn/public/icon/images/bpmkk.jpg">
+											</div>
+											<div class="col-sm-12">
+												<p>
+													<b>Cách 2:</b> Bảo quản bột trong các loại hũ.
+												</p>
+												<p>
+													Bạn cho bột vào hũ và đậy nắp lại. Sau đó bạn để hũ trong tủ lạnh ( ngăn mát) hoặc để nơi thoáng mát khô ráo, tránh ánh nắng trực tiếp.
+												</p>
+												<p>
+													Bạn có thể dùng hũ thủy tinh hoặc nhựa.
+												</p>
+											</div>
+											<div class="col-sm-3">
+												<img width="100%" src="http://twistpotato.vn/public/icon/images/hbpm.jpg">
+											</div>
 										</div>
 									</div>
 								</article>
 								<br />
-								<div id="comments">
+								<!-- <div id="comments">
 									<div class="title-sep-wrap commentst-title">
 										<h3 class="title-sep-text">2 Comments </h3>
 									</div>
@@ -163,7 +174,7 @@
                                             </form>
                                         </div> 
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
