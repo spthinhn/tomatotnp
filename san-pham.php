@@ -30,7 +30,9 @@
 												</div>
 												<div class="content_element">
 													<p class="text-center">
-												
+														Chúng tôi tự hào là nhà sản xuất và phân phối bột phô mai hàng đầu Việt Nam.
+														<br>
+														Ngoài những sản phẩm bên dưới, chúng tôi có thể sản xuất được các loại khác theo yêu cầu của quý khách.
 													</p>
 												</div>
 											</div>
@@ -143,6 +145,28 @@
 																			<div class="shop-loop-product-info">
 																				<div class="info-title">
 																					<h3 class="product_title">Bột phô mai Tornado nguyên chất (gói 1kg)</h3>
+																				</div>
+																			</div>
+																		</figcaption>
+																	</figure>
+																</div>
+															</a>
+														</li>
+														<li class="product">
+															<a href="/bot-pho-mai/custom.php">
+																<div class="product-container">
+																	<figure>
+																		<div class="product-wrap">
+																			<div class="product-images">
+																				<div class="shop-loop-thumbnail">
+	                                                                                <img width="300" height="350" src="/images/bot-pho-mai/custom.jpg" alt="Product-1"/>
+	                                                                            </div>
+																			</div>
+																		</div>
+																		<figcaption>
+																			<div class="shop-loop-product-info">
+																				<div class="info-title">
+																					<h3 class="product_title">Bột phô mai theo yêu cầu của quý khách</h3>
 																				</div>
 																			</div>
 																		</figcaption>

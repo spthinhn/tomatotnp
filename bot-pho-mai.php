@@ -30,7 +30,9 @@
 												</div>
 												<div class="content_element">
 													<p class="text-center">
-														The Women Collection does its job from a foundation of strength and function.Cras eu venenatis enim, sed facilisis leo. Sed lobortis egestas semper. Ut dapibus lacus sapien, nec tristique justo consequat dapibus. Aenean bibendum.
+														Chúng tôi tự hào là nhà sản xuất và phân phối bột phô mai hàng đầu Việt Nam.
+														<br>
+														Ngoài những sản phẩm bên dưới, chúng tôi có thể sản xuất được các loại khác theo yêu cầu của quý khách.
 													</p>
 												</div>
 											</div>
@@ -39,8 +41,8 @@
 										<div class="row">
 											<div class="col-sm-3">
 												<div class="thumbnail">
-													<a href="bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-goi-1kg.php">
-														<img width="100%" src="images/bot-pho-mai/bpmtt01_1kg.jpg" alt="Product-1"/>
+													<a href="/bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-goi-1kg.php">
+														<img width="100%" src="/images/bot-pho-mai/bpmtt01_1kg.jpg" alt="Product-1"/>
 														<div class="caption">
 															<h4>Bột phô mai Tornado vị truyền thống (gói 1kg)</h4>
 														</div>
@@ -49,8 +51,8 @@
 											</div>
 											<div class="col-sm-3">
 												<div class="thumbnail">
-													<a href="bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-goi-100g.php">
-														<img width="100%" src="images/bot-pho-mai/bpmtt01_100g.jpg" alt="Product-1"/>
+													<a href="/bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-goi-100g.php">
+														<img width="100%" src="/images/bot-pho-mai/bpmtt01_100g.jpg" alt="Product-1"/>
 														<div class="caption">
 															<h4>Bột phô mai Tornado vị truyền thống (gói 100g)</h4>
 														</div>
@@ -59,8 +61,8 @@
 											</div>
 											<div class="col-sm-3">
 												<div class="thumbnail">
-													<a href="bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-goi-30g.php">
-														<img width="100%" src="images/bot-pho-mai/bpmtt01_30g.jpg" alt="Product-1"/>
+													<a href="/bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-goi-30g.php">
+														<img width="100%" src="/images/bot-pho-mai/bpmtt01_30g.jpg" alt="Product-1"/>
 														<div class="caption">
 															<h4>Bột phô mai Tornado vị truyền thống (gói 30g)</h4>
 														</div>
@@ -69,8 +71,8 @@
 											</div>
 											<div class="col-sm-3">
 												<div class="thumbnail">
-													<a href="bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-cay-goi-1kg.php">
-														<img width="100%" src="images/bot-pho-mai/bpmttc01_1kg.jpg" alt="Product-1"/>
+													<a href="/bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-cay-goi-1kg.php">
+														<img width="100%" src="/images/bot-pho-mai/bpmttc01_1kg.jpg" alt="Product-1"/>
 														<div class="caption">
 															<h4>Bột phô mai Tornado vị truyền thống cay (gói 1kg)</h4>
 														</div>
@@ -79,10 +81,20 @@
 											</div>
 											<div class="col-sm-3">
 												<div class="thumbnail">
-													<a href="bot-pho-mai/bot-pho-mai-tornado-nguyen-chat-goi-1kg.php">
-														<img width="100%" src="images/bot-pho-mai/bpmnc01_1kg.jpg" alt="Product-1"/>
+													<a href="/bot-pho-mai/bot-pho-mai-tornado-nguyen-chat-goi-1kg.php">
+														<img width="100%" src="/images/bot-pho-mai/bpmnc01_1kg.jpg" alt="Product-1"/>
 														<div class="caption">
 															<h4>Bột phô mai Tornado nguyên chất (gói 1kg)</h4>
+														</div>
+													</a>
+												</div>
+											</div>
+											<div class="col-sm-3">
+												<div class="thumbnail">
+													<a href="/bot-pho-mai/custom.php">
+														<img width="100%" src="/images/bot-pho-mai/custom.jpg" alt="Product-1"/>
+														<div class="caption">
+															<h4>Bột phô mai theo yêu cầu của quý khách</h4>
 														</div>
 													</a>
 												</div>

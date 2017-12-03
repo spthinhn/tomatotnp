@@ -22,7 +22,7 @@
 													<div class="hentry-wrap">
 														<div class="entry-featured">
 															<a href="tin-tuc-chi-tiet.php">
-																<img width="700" height="350" src="images/blog/blog-1.jpg" alt="blog-1"/>
+																<img width="700" height="350" src="/images/tin_tuc_1.jpg" alt="blog-1"/>
 															</a>
 														</div>
 														<div class="entry-info">

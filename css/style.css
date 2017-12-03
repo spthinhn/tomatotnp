@@ -3273,7 +3273,7 @@ input[type="button"].btn-block {
     float: none;
   }
 }
-@media (min-width: 900px) and (max-width: 1024px) {
+@media (min-width: 767px) and (max-width: 1024px) {
   .header-default-center.header-type-default .primary-nav > li {
     padding: 0 7.5px;
   }
@@ -3413,20 +3413,7 @@ input[type="button"].btn-block {
   left: 100%;
   top: 0;
 }
-@media (max-width: 899px) {
-  .primary-nav .dropdown-menu li .megamenu-title {
-    font-size: 12px;
-    font-weight: 400;
-    font-family: "Montserrat", Helvetica, Arial, sans-serif;
-    margin: 0;
-    padding: 0.7142857142857143em 1.0714285714285714em 0.7142857142857143em 1.7857142857142858em;
-    position: relative;
-    color: #1e1e1e;
-  }
-  .primary-nav .dropdown-menu li .megamenu-title .caret {
-    cursor: pointer;
-  }
-}
+
 .primary-nav .dropdown-menu a {
   color: #1e1e1e;
   padding: 0.5em 1rem;

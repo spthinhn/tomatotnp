@@ -20,7 +20,7 @@
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">
 															<div class="product-category-grid-featured-wrap">
-																<img src="images/categories/category-1.jpg" width="100%">
+																<img src="/images/hinh_gioi_thieu.jpg" width="100%">
 															</div>
 															<div class="product-category-grid-featured-summary">
 																<h3>Giới thiệu<small>Tomato TNP </small></h3>
@@ -34,13 +34,13 @@
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">
 															<div class="product-category-grid-featured-wrap">
-																<img width="100%" src="/images/tam_nhin.jpg">
+																<img width="100%" src="/images/hinh_tam_nhin.jpg">
 															</div>
-															<div class="product-category-grid-featured-summary">
+															<!-- <div class="product-category-grid-featured-summary">
 																<h3>
 																	Tầm nhìn
 																</h3>
-															</div>
+															</div> -->
 														</div>
 													</div>
 												</a>
@@ -50,11 +50,11 @@
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">
 															<div class="product-category-grid-featured-wrap">
-																<img width="100%" src="/images/su_menh.jpg" />
+																<img width="100%" src="/images/hinh_su_menh.jpg" />
 															</div>
-															<div class="product-category-grid-featured-summary">
+															<!-- <div class="product-category-grid-featured-summary">
 																<h3>Sứ mệnh </h3>
-															</div>
+															</div> -->
 														</div>
 													</div>
 												</a>
