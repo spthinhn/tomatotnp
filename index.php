@@ -15,7 +15,7 @@
 								<div class="product-categories-grid">
 									<div class="product-categories-grid-wrap clearfix">
 										<div class="product-category-wall">
-											<div class="wall-col hidden-xs hidden-sm hidden-sm col-md-6 col-sm-12 title-in product-category-wall">
+											<div class="wall-col col-md-6 col-sm-12 title-in product-category-wall">
 												<a href="gioi-thieu.php">
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">
@@ -29,21 +29,7 @@
 													</div>
 												</a>
 											</div>
-											<div class="wall-col hidden-md hidden-lg col-md-6 col-sm-12 title-in product-category-wall">
-												<a href="gioi-thieu.php">
-													<div class="product-category-grid-item">
-														<div class="product-category-grid-item-wrap">
-															<div class="product-category-grid-featured-wrap">
-																<img src="images/categories/category-1.jpg" width="100%">
-															</div>
-															<div class="product-category-grid-featured-summary">
-																<h3>Tầm nhìn & Sứ mệnh <small>Tomato TNP </small></h3>
-															</div>
-														</div>
-													</div>
-												</a>
-											</div>
-											<div class="wall-col hidden-xs hidden-sm col-md-6 col-sm-12 title-out product-category-wall">
+											<div class="wall-col col-md-6 col-sm-12 title-out product-category-wall">
 												<a href="gioi-thieu.php">
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">
@@ -59,7 +45,7 @@
 													</div>
 												</a>
 											</div>
-											<div class="wall-col hidden-xs hidden-sm col-md-6 col-sm-12 title-out product-category-wall">
+											<div class="wall-col col-md-6 col-sm-12 title-out product-category-wall">
 												<a href="gioi-thieu.php">
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">

@@ -7,8 +7,8 @@
 					<a href="/san-pham.php" class="dropdown-hover">Sản phẩm <span class="caret"></span></a>
 					<ul class="dropdown-menu">
 						<li><a href="/bot-pho-mai.php">Bột phô mai</a></li>
-						<li><a href="/bot-pho-mai.php">Giá</a></li>
-						<li><a href="/bot-pho-mai.php">Bột đậu xanh</a></li>
+						<li><a href="/bot-pho-mai.php">Giá đậu nành</a></li>
+						<li><a href="/bot-pho-mai.php">Đậu xanh giống</a></li>
 					</ul>
 				</li>
 				<li><a href="/tin-tuc.php">Tin tức</a></li>
@@ -24,3 +24,4 @@
 		</nav>
 	</div>
 </div>
+
