@@ -12044,8 +12044,23 @@ img.grayscale:hover {
     margin-top: 75px;
   }
 }
+.pleft {
+  padding-left: 7.5px;
+}
+.pright {
+  padding-right: 7.5px;
+}
 
 @media screen and (max-width: 768px) {
+  .mobile-margin-top {
+    margin-top: 75px;
+  }
+  .pleft {
+    padding-left: 0;
+  }
+  .pright {
+    padding-right: 0;
+  }
   .no-padding {
     padding: 0px;
     margin: 0px;

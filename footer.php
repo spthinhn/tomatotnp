@@ -30,7 +30,12 @@
 						<h3 class="widget-title"><span>CÔNG TY TNHH THƯƠNG MẠI XUẤT NHẬP KHẨU TOMATO T&P</span></h3>
 						<div class="textwidget">
 							<p><i class="fa fa-map-marker"></i> 49/2/2F1 đường 51, phường 14, quận Gò Vấp, Hồ Chí Minh</p>
-							<p><i class="fa fa-phone"></i> (08) &nbsp; 99342179</p>
+							<p>
+								<i class="fa fa-phone"></i>
+								<a href="tel:0907091003" style="width: auto">
+									<span> 090 709 1003</span>
+								</a>
+							</p>
 							<p>
 								<i class="fa fa-envelope"></i> <a href="mailto:email@domain.com">tomatotnp@gmail.com</a>
 							</p>

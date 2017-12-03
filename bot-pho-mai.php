@@ -8,7 +8,7 @@
 			<?php require_once('header.php'); ?>
 			<div class="content-container no-padding mobile-header">
 				<div class="heading-container heading-resize heading-no-button">
-					<img src="images/slideshow/2.jpg" width="100%">
+					<img src="/images/bot-pho-mai/cover.jpg" width="100%">
 				</div>
 				<div class="container">
 					<div class="row">

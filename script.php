@@ -19,7 +19,7 @@
 <script type='text/javascript' src='/js/isotope.pkgd.min.js'></script>
 <script type='text/javascript' src='/js/owl.carousel.js'></script>
 <script type="text/javascript">
-	$('.owl-carousel').owlCarousel({
+	$('#products').owlCarousel({
 	    loop:true,
 	    margin:10,
 	    nav:true,
@@ -33,6 +33,20 @@
 	        },
 	        1000:{
 	            items:4
+	        }
+	    }
+	});
+	$('#banners').owlCarousel({
+		loop:true,
+    	responsive:{
+	        0:{
+	            items:1
+	        },
+	        600:{
+	            items:1
+	        },
+	        1000:{
+	            items:1
 	        }
 	    }
 	});

@@ -11,26 +11,7 @@
 					<div class="row">
 						<div class="col-md-12 main-wrap">
 							<div class="main-content">
-								<div id="home-slider" data-autorun="yes" data-duration="6000" class="carousel slide fade dhslider dhslider-custom " data-height="650">
-									<div class="dhslider-loader">
-										<div class="fade-loading">
-											<i></i><i></i><i></i><i></i>
-										</div>
-									</div>
-									<div class="carousel-inner dhslider-wrap">
-										<div class="item slider-item active">
-											<div class="slide-bg slide-bg-1">
-											</div>  
-										</div>
-										<div class="item slider-item">
-											<div class="slide-bg slide-bg-2"></div>  
-										</div>
-									</div>
-									<ol class="carousel-indicators parallax-content">
-										<li data-target="#home-slider" data-slide-to="0" class="active"></li>
-										<li data-target="#home-slider" data-slide-to="1"></li>
-									</ol>
-								</div>
+								<?php require_once('banner.php'); ?>
 								<div class="product-categories-grid">
 									<div class="product-categories-grid-wrap clearfix">
 										<div class="product-category-wall">
@@ -67,11 +48,11 @@
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">
 															<div class="product-category-grid-featured-wrap">
-																<div class="product-category-grid-featured bg-2"></div>
+																<img src="/images/tam_nhin.jpg">
 															</div>
 															<div class="product-category-grid-featured-summary">
 																<h3>
-																	Tầm nhìn <small>A curated selection of party essentials</small>
+																	Tầm nhìn
 																</h3>
 															</div>
 														</div>
@@ -83,10 +64,10 @@
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">
 															<div class="product-category-grid-featured-wrap">
-																<div class="product-category-grid-featured bg-3"></div>
+																<img src="/images/su_menh.jpg" />
 															</div>
 															<div class="product-category-grid-featured-summary">
-																<h3>Sứ mệnh <small>Warm &amp; Versatile</small></h3>
+																<h3>Sứ mệnh </h3>
 															</div>
 														</div>
 													</div>
@@ -105,7 +86,7 @@
 											}
 										</style>
 										<div class="col-xs-12">
-											<div class="owl-carousel owl-theme">
+											<div id="products" class="owl-carousel owl-theme">
 									            <div class="item">
 									            	<div class="wall-col title-in product-category-wall">
 														<a href="/bot-pho-mai.php">
