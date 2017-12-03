@@ -34,7 +34,7 @@
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">
 															<div class="product-category-grid-featured-wrap">
-																<img src="/images/tam_nhin.jpg">
+																<img width="100%" src="/images/tam_nhin.jpg">
 															</div>
 															<div class="product-category-grid-featured-summary">
 																<h3>
@@ -50,7 +50,7 @@
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">
 															<div class="product-category-grid-featured-wrap">
-																<img src="/images/su_menh.jpg" />
+																<img width="100%" src="/images/su_menh.jpg" />
 															</div>
 															<div class="product-category-grid-featured-summary">
 																<h3>Sứ mệnh </h3>

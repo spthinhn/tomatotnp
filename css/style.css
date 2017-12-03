@@ -12051,7 +12051,7 @@ img.grayscale:hover {
   padding-right: 7.5px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .mobile-margin-top {
     margin-top: 75px;
   }
@@ -12065,4 +12065,5 @@ img.grayscale:hover {
     padding: 0px;
     margin: 0px;
   }
+  
 }

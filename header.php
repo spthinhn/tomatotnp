@@ -38,7 +38,7 @@
 										<span class="icon-bar bar-middle"></span>
 										<span class="icon-bar bar-bottom"></span>
 									</button>
-									<a class="navbar-brand" href="./">
+									<a class="navbar-brand" href="/">
 										<img class="logo" alt="The DMCS" src="/images/Logo_TOMATO_Slogan 2.png">
 										<img class="logo-fixed" alt="The DMCS" src="/images/Logo_TOMATO_Slogan 2.png">
 										<img class="logo-mobile" alt="The DMCS" src="/images/Logo_TOMATO_Slogan 2.png">
