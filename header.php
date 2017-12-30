@@ -53,8 +53,7 @@
 											</a>
 											<ul class="dropdown-menu">
 												<li><a href="/bot-pho-mai.php">Bột phô mai</a></li>
-												<li><a href="/bot-pho-mai.php">Giá đậu nành</a></li>
-												<li><a href="/bot-pho-mai.php">Đậu xanh giống</a></li>
+												<li><a href="/bot-xi-muoi.php">Bột xí muội</a></li>
 											</ul>
 										</li>
 										<li><a href="/tin-tuc.php"><span class="underline">Tin tức</span></a></li>

@@ -15,7 +15,7 @@
 								<div class="product-categories-grid">
 									<div class="product-categories-grid-wrap clearfix">
 										<div class="product-category-wall">
-											<div class="wall-col col-md-6 col-sm-12 title-in product-category-wall">
+											<div class="wall-col col-xs-12 title-in product-category-wall" style="height: auto">
 												<a href="gioi-thieu.php">
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">
@@ -29,32 +29,24 @@
 													</div>
 												</a>
 											</div>
-											<div class="wall-col col-md-6 col-sm-12 title-out product-category-wall">
+											<div class="wall-col col-xs-12 product-category-wall" style="height: auto">
 												<a href="gioi-thieu.php">
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">
 															<div class="product-category-grid-featured-wrap">
 																<img width="100%" src="/images/hinh_tam_nhin.jpg">
 															</div>
-															<!-- <div class="product-category-grid-featured-summary">
-																<h3>
-																	Tầm nhìn
-																</h3>
-															</div> -->
 														</div>
 													</div>
 												</a>
 											</div>
-											<div class="wall-col col-md-6 col-sm-12 title-out product-category-wall">
+											<div class="wall-col col-xs-12 product-category-wall" style="height: auto">
 												<a href="gioi-thieu.php">
 													<div class="product-category-grid-item">
 														<div class="product-category-grid-item-wrap">
 															<div class="product-category-grid-featured-wrap">
 																<img width="100%" src="/images/hinh_su_menh.jpg" />
 															</div>
-															<!-- <div class="product-category-grid-featured-summary">
-																<h3>Sứ mệnh </h3>
-															</div> -->
 														</div>
 													</div>
 												</a>
@@ -71,7 +63,7 @@
 												height: auto;
 											}
 										</style>
-										<div class="col-xs-12">
+										<div class="col-xs-12 hidden-md hidden-lg">
 											<div id="products" class="owl-carousel owl-theme">
 									            <div class="item">
 									            	<div class="wall-col title-in product-category-wall">
@@ -82,7 +74,7 @@
 																		<img src="/images/bot-pho-mai/bpmtt03_1kg.jpg" width="100%">
 																	</div>
 																	<div class="product-category-grid-featured-summary">
-																		<h3>Bột phô mai<small>Tomato TNP </small></h	3>
+																		<h3>Bột phô mai<small>Tomato TNP </small></h3>
 																	</div>
 																</div>
 															</div>
@@ -91,62 +83,14 @@
 									            </div>
 									            <div class="item">
 									            	<div class="wall-col title-in product-category-wall">
-														<a href="bot-pho-mai.php">
+														<a href="/bot-xi-muoi.php">
 															<div class="product-category-grid-item">
 																<div class="product-category-grid-item-wrap">
 																	<div class="product-category-grid-featured-wrap">
-																		<img src="images/categories/category-1.jpg" width="100%">
+																		<img src="/images/bot-xi-muoi/bxm02.jpg" width="100%">
 																	</div>
 																	<div class="product-category-grid-featured-summary">
-																		<h3>Giới thiệu2<small>Tomato TNP </small></h	3>
-																	</div>
-																</div>
-															</div>
-														</a>
-													</div>
-									            </div>
-									            <div class="item">
-									            	<div class="wall-col title-in product-category-wall">
-														<a href="bot-pho-mai.php">
-															<div class="product-category-grid-item">
-																<div class="product-category-grid-item-wrap">
-																	<div class="product-category-grid-featured-wrap">
-																		<img src="images/categories/category-1.jpg" width="100%">
-																	</div>
-																	<div class="product-category-grid-featured-summary">
-																		<h3>Giới thiệu3<small>Tomato TNP </small></h	3>
-																	</div>
-																</div>
-															</div>
-														</a>
-													</div>
-									            </div>
-									            <div class="item">
-									            	<div class="wall-col title-in product-category-wall">
-														<a href="bot-pho-mai.php">
-															<div class="product-category-grid-item">
-																<div class="product-category-grid-item-wrap">
-																	<div class="product-category-grid-featured-wrap">
-																		<img src="images/categories/category-1.jpg" width="100%">
-																	</div>
-																	<div class="product-category-grid-featured-summary">
-																		<h3>Giới thiệu4<small>Tomato TNP </small></h	3>
-																	</div>
-																</div>
-															</div>
-														</a>
-													</div>
-									            </div>
-									            <div class="item">
-									            	<div class="wall-col title-in product-category-wall">
-														<a href="bot-pho-mai.php">
-															<div class="product-category-grid-item">
-																<div class="product-category-grid-item-wrap">
-																	<div class="product-category-grid-featured-wrap">
-																		<img src="images/categories/category-1.jpg" width="100%">
-																	</div>
-																	<div class="product-category-grid-featured-summary">
-																		<h3>Giới thiệu5<small>Tomato TNP </small></h	3>
+																		<h3>Bột xí muội<small>Volcano TNP </small></h3>
 																	</div>
 																</div>
 															</div>
@@ -155,7 +99,46 @@
 									            </div>
 									        </div>
 										</div>
-										
+										<div class="col-sm-12 hidden-xs hidden-sm hidden-md">
+									        <ul class="home_slider">
+												<li style="display: none;">
+													<div class="slider_wrap">
+														<a href="/bot-pho-mai.php">
+															<img src="/images/bot-pho-mai/bpmtt03_1kg.jpg">
+															<h2>Bột phô mai</h2>
+														</a>
+													</div>
+												</li>
+												<li style="display: none;">
+													<div class="slider_wrap">
+														<a href="/bot-xi-muoi.php">
+															<img src="/images/bot-xi-muoi/bxm02.jpg">
+															<h2>Bột xí muội</h2>
+														</a>
+													</div>
+												</li>
+											</ul>	
+									    </div>
+									    <div class="col-md-12 hidden-xs hidden-sm hidden-lg">
+									        <ul class="home_slider_md">
+												<li style="display: none;">
+													<div class="slider_wrap">
+														<a href="/bot-pho-mai.php">
+															<img src="/images/bot-pho-mai/bpmtt03_1kg.jpg">
+															<h2>Bột phô mai</h2>
+														</a>
+													</div>
+												</li>
+												<li style="display: none;">
+													<div class="slider_wrap">
+														<a href="/bot-xi-muoi.php">
+															<img src="/images/bot-xi-muoi/bxm02.jpg">
+															<h2>Bột xí muội</h2>
+														</a>
+													</div>
+												</li>
+											</ul>	
+									    </div>
 									</div>
 								</div>
 								<div class="footer-services">
