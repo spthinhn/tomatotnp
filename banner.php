@@ -5,7 +5,4 @@
     <div class="item">
     	<img width="100%" src="/images/banner/banner2.jpg" />
     </div>
-    <div class="item">
-    	<img width="100%" src="/images/banner/banner3.jpg" />
-    </div>
 </div>
