@@ -182,170 +182,65 @@
 										</div>
 									</div>
 								</div>
-								<!-- <div class="row wpb_row row-fluid section-collection">
-									<div class="wpb_column column_container col-sm-12">
-										<div class="wpb_wrapper">
-											<div class="row wpb_row inner row-fluid">
-												<div class="wpb_column column_container col-sm-2">
-													<div class="wpb_wrapper"></div>
+								<div class="row section-collection">
+									<div class="col-sm-12">
+										<div class="row inner">
+											<div class="col-sm-2"></div>
+											<div class="col-sm-8">
+												<h2 class="text-center custom_heading">Bột Xí Muội</h2>
+												<div class="separator content_element separator_align_center sep_width_10 sep_border_width_2 sep_pos_align_center separator_no_text sep_color_black">
+													<span class="sep_holder sep_holder_l">
+														<span class="sep_line"></span>
+													</span>
+													<span class="sep_holder sep_holder_r">
+														<span class="sep_line"></span>
+													</span>
 												</div>
-												<div class="wpb_column column_container col-sm-8">
-													<div class="wpb_wrapper">
-														<h2 class="text-center custom_heading">Giá</h2>
-														<div class="separator content_element separator_align_center sep_width_10 sep_border_width_2 sep_pos_align_center separator_no_text sep_color_black">
-															<span class="sep_holder sep_holder_l">
-																<span class="sep_line"></span>
-															</span>
-															<span class="sep_holder sep_holder_r">
-																<span class="sep_line"></span>
-															</span>
-														</div>
-														<div class="wpb_text_column content_element ">
-															<div class="wpb_wrapper">
-																<p class="text-center">
-																	The Maecenas Collection does its job from a foundation of strength and function.Cras eu venenatis enim, sed facilisis leo. Sed lobortis egestas semper. Ut dapibus lacus sapien, nec tristique justo consequat dapibus. Aenean bibendum.
-																</p>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="wpb_column column_container col-sm-2">
-													<div class="wpb_wrapper"></div>
+												<div class="content_element">
+													<p class="text-center">
+														Chúng tôi tự hào là nhà sản xuất và phân phối bột xí muội hàng đầu Việt Nam.
+														<br>
+														Ngoài những sản phẩm bên dưới, chúng tôi có thể sản xuất được các loại khác theo yêu cầu của quý khách.
+													</p>
 												</div>
 											</div>
-											<div class="caroufredsel product-slider" data-scroll-fx="" data-speed="" data-easing="" data-visible-min="1" data-scroll-item="" data-responsive="1" data-infinite="1" data-autoplay="0">
-												<div class="caroufredsel-wrap">
-													<div class="shop columns-4">
-														<ul class="products columns-4" data-columns="4">
-															<li class="product">
+											<div class="col-sm-2"></div>
+										</div>
+										<div class="caroufredsel product-slider" data-scroll-fx="" data-speed="" data-easing="" data-visible-min="1" data-scroll-item="" data-responsive="1" data-infinite="1" data-autoplay="0">
+											<div class="caroufredsel-wrap">
+												<div class="shop columns-4">
+													<ul class="products columns-4" data-columns="4">
+														<li class="product">
+															<a href="/bot-xi-muoi/bot-xi-muoi-tornado.php">
 																<div class="product-container">
 																	<figure>
 																		<div class="product-wrap">
 																			<div class="product-images">
 																				<div class="shop-loop-thumbnail">
-                                                                                    <img width="300" height="350" src="images/product/product-4.jpg" alt="Product-4"/>
-                                                                                </div>
+	                                                                                <img width="300" height="350" src="/images/bot-xi-muoi/bxm01.jpg" alt="Product-1"/>
+	                                                                            </div>
 																			</div>
 																		</div>
 																		<figcaption>
 																			<div class="shop-loop-product-info">
 																				<div class="info-title">
-																					<h3 class="product_title"><a href="san-pham-chi-tiet.php">Green Chile Burritos</a></h3>
+																					<h3 class="product_title">Bột phô mai Tornado vị truyền thống (gói 1kg)</h3>
 																				</div>
 																			</div>
 																		</figcaption>
 																	</figure>
 																</div>
-															</li>
-															<li class="product">
-																<div class="product-container">
-																	<figure>
-																		<div class="product-wrap">
-																			<div class="product-images">
-																				<div class="shop-loop-thumbnail">
-                                                                                    <img width="300" height="350" src="images/product/product-5.jpg" alt="Product-5"/>
-                                                                                </div>
-																			</div>
-																		</div>
-																		<figcaption>
-																			<div class="shop-loop-product-info">
-																				<div class="info-title">
-																					<h3 class="product_title"><a href="san-pham-chi-tiet.php">Jalapeno Dressing Salad</a></h3>
-																				</div>
-																			</div>
-																		</figcaption>
-																	</figure>
-																</div>
-															</li>
-															<li class="product">
-																<div class="product-container">
-																	<figure>
-																		<div class="product-wrap">
-																			<div class="product-images">
-																				<div class="shop-loop-thumbnail">
-                                                                                    <img width="300" height="350" src="images/product/product-10.jpg" alt="Product-10"/>
-                                                                                </div>
-																			</div>
-																		</div>
-																		<figcaption>
-																			<div class="shop-loop-product-info">
-																				<div class="info-title">
-																					<h3 class="product_title"><a href="san-pham-chi-tiet.php">Mauris egestas</a></h3>
-																				</div>
-																			</div>
-																		</figcaption>
-																	</figure>
-																</div>
-															</li>
-															<li class="product">
-																<div class="product-container">
-																	<figure>
-																		<div class="product-wrap">
-																			<div class="product-images">
-																				<div class="shop-loop-thumbnail">
-                                                                                    <img width="300" height="350" src="images/product/product-11.jpg" alt="Product-11"/>
-                                                                                </div>
-																			</div>
-																		</div>
-																		<figcaption>
-																			<div class="shop-loop-product-info">
-																				<div class="info-title">
-																					<h3 class="product_title"><a href="san-pham-chi-tiet.php">Nunc lacus sem</a></h3>
-																				</div>
-																			</div>
-																		</figcaption>
-																	</figure>
-																</div>
-															</li>
-															<li class="product">
-																<div class="product-container">
-																	<figure>
-																		<div class="product-wrap">
-																			<div class="product-images">
-																				<div class="shop-loop-thumbnail">
-                                                                                    <img width="300" height="350" src="images/product/product-6.jpg" alt="Product-6"/>
-                                                                                </div>
-																			</div>
-																		</div>
-																		<figcaption>
-																			<div class="shop-loop-product-info">
-																				<div class="info-title">
-																					<h3 class="product_title"><a href="san-pham-chi-tiet.php">Pesto Cauliflower</a></h3>
-																				</div>
-																			</div>
-																		</figcaption>
-																	</figure>
-																</div>
-															</li>
-															<li class="product">
-																<div class="product-container">
-																	<figure>
-																		<div class="product-wrap">
-																			<div class="product-images">
-																				<div class="shop-loop-thumbnail">
-                                                                                    <img width="300" height="350" src="images/product/product-7.jpg" alt="Product-7"/>
-                                                                                </div>
-																			</div>
-																		</div>
-																		<figcaption>
-																			<div class="shop-loop-product-info">
-																				<div class="info-title">
-																					<h3 class="product_title"><a href="san-pham-chi-tiet.php">Ut quis Aenean</a></h3>
-																				</div>
-																			</div>
-																		</figcaption>
-																	</figure>
-																</div>
-															</li>
-														</ul>
-													</div>
-													<a href="#" class="caroufredsel-prev"></a>
-													<a href="#" class="caroufredsel-next"></a>
+															</a>
+														</li>
+													</ul>
 												</div>
+												<a href="#" class="caroufredsel-prev"></a>
+												<a href="#" class="caroufredsel-next"></a>
 											</div>
 										</div>
 									</div>
 								</div>
+								<!--
 								<div class="row wpb_row row-fluid section-collection">
 									<div class="wpb_column column_container col-sm-12">
 										<div class="wpb_wrapper">

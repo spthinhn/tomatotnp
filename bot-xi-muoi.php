@@ -30,7 +30,7 @@
 												</div>
 												<div class="content_element">
 													<p class="text-center">
-														Chúng tôi tự hào là nhà sản xuất và phân phối bột phô mai hàng đầu Việt Nam.
+														Chúng tôi tự hào là nhà sản xuất và phân phối bột xí muội hàng đầu Việt Nam.
 														<br>
 														Ngoài những sản phẩm bên dưới, chúng tôi có thể sản xuất được các loại khác theo yêu cầu của quý khách.
 													</p>

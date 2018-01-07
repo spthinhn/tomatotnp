@@ -109,7 +109,7 @@
 															<div id="collapseGioiThieu" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingGioiThieu">
 																<div class="panel-body">
 																	<p>
-																		Bột phô mai Tornado vị truyền thống được sản xuất tại Việt Nam theo nguyên liệu và công nghệ Hàn Quốc.
+																		Bột phô mai Tornado vị truyền thống cay được sản xuất tại Việt Nam theo nguyên liệu và công nghệ Hàn Quốc.
 																	</p>
 																	<p>
 																		Bột có dạng mịn, vị phô mai mặn ngọt cay, màu cam, thơm nồng phô mai và ớt.

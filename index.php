@@ -71,10 +71,10 @@
 															<div class="product-category-grid-item">
 																<div class="product-category-grid-item-wrap">
 																	<div class="product-category-grid-featured-wrap">
-																		<img src="/images/bot-pho-mai/bpmtt03_1kg.jpg" width="100%">
+																		<img src="/images/bot-pho-mai/bpmtt.jpg" width="100%">
 																	</div>
 																	<div class="product-category-grid-featured-summary">
-																		<h3>Bột phô mai<small>Tomato TNP </small></h3>
+																		<h3>Bột phô mai</h3>
 																	</div>
 																</div>
 															</div>
@@ -90,7 +90,7 @@
 																		<img src="/images/bot-xi-muoi/bxm02.jpg" width="100%">
 																	</div>
 																	<div class="product-category-grid-featured-summary">
-																		<h3>Bột xí muội<small>Volcano TNP </small></h3>
+																		<h3>Bột xí muội</h3>
 																	</div>
 																</div>
 															</div>
@@ -104,7 +104,7 @@
 												<li style="display: none;">
 													<div class="slider_wrap">
 														<a href="/bot-pho-mai.php">
-															<img src="/images/bot-pho-mai/bpmtt03_1kg.jpg">
+															<img src="/images/bot-pho-mai/bpmtt.jpg">
 															<h2>Bột phô mai</h2>
 														</a>
 													</div>
@@ -124,7 +124,7 @@
 												<li style="display: none;">
 													<div class="slider_wrap">
 														<a href="/bot-pho-mai.php">
-															<img src="/images/bot-pho-mai/bpmtt03_1kg.jpg">
+															<img src="/images/bot-pho-mai/bpmtt.jpg">
 															<h2>Bột phô mai</h2>
 														</a>
 													</div>

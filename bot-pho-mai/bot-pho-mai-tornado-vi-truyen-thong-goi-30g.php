@@ -119,7 +119,7 @@
 																		<ul>
 																			<li>1 gói 30g</li>
 																			<li>200 gói/ thùng</li>
-																			<li>42 thùng (630 kg)/ pallet</li>
+																			<li>42 thùng (252 kg)/ pallet</li>
 																		</ul>
 																	</p>
 																	<p>

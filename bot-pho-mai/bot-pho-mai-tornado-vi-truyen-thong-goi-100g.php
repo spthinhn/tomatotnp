@@ -118,8 +118,8 @@
 																		Quy cách đóng gói: 
 																		<ul>
 																			<li>1 gói 100g</li>
-																			<li>100 gói/ thùng</li>
-																			<li>42 thùng (630 kg)/ pallet</li>
+																			<li>80 gói/ thùng</li>
+																			<li>42 thùng (336 kg)/ pallet</li>
 																		</ul>
 																	</p>
 																	<p>

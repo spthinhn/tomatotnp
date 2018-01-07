@@ -15,6 +15,7 @@
 							<a href="tel:0907091003" style="width: auto">
 								<i class="fa fa-phone"></i><span> 090 709 1003</span>
 							</a>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 							<a href="mailto:tomatotnp@gmail.com" style="width: auto">
 								<i class="fa fa-envelope-o"></i><span> tomatotnp@gmail.com</span>
 							</a>
