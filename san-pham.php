@@ -38,147 +38,43 @@
 											</div>
 											<div class="col-sm-2"></div>
 										</div>
-										<div class="caroufredsel product-slider" data-scroll-fx="" data-speed="" data-easing="" data-visible-min="1" data-scroll-item="" data-responsive="1" data-infinite="1" data-autoplay="0">
-											<div class="caroufredsel-wrap">
-												<div class="shop columns-4">
-													<ul class="products columns-4" data-columns="4">
-														<li class="product">
-															<a href="/bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-goi-1kg.php">
-																<div class="product-container">
-																	<figure>
-																		<div class="product-wrap">
-																			<div class="product-images">
-																				<div class="shop-loop-thumbnail">
-	                                                                                <img width="300" height="350" src="/images/bot-pho-mai/bpmtt01_1kg.jpg" alt="Product-1"/>
-	                                                                            </div>
-																			</div>
-																		</div>
-																		<figcaption>
-																			<div class="shop-loop-product-info">
-																				<div class="info-title">
-																					<h3 class="product_title">Bột phô mai Tornado vị truyền thống (gói 1kg)</h3>
-																				</div>
-																			</div>
-																		</figcaption>
-																	</figure>
-																</div>
-															</a>
-														</li>
-														<li class="product">
-															<a href="/bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-goi-100g.php">
-																<div class="product-container">
-																	<figure>
-																		<div class="product-wrap">
-																			<div class="product-images">
-																				<div class="shop-loop-thumbnail">
-	                                                                                <img width="300" height="350" src="/images/bot-pho-mai/bpmtt01_100g.jpg" alt="Product-1"/>
-	                                                                            </div>
-																			</div>
-																		</div>
-																		<figcaption>
-																			<div class="shop-loop-product-info">
-																				<div class="info-title">
-																					<h3 class="product_title">Bột phô mai Tornado vị truyền thống (gói 100g)</h3>
-																				</div>
-																			</div>
-																		</figcaption>
-																	</figure>
-																</div>
-															</a>
-														</li>
-														<li class="product">
-															<a href="/bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-goi-30g.php">
-																<div class="product-container">
-																	<figure>
-																		<div class="product-wrap">
-																			<div class="product-images">
-																				<div class="shop-loop-thumbnail">
-	                                                                                <img width="300" height="350" src="/images/bot-pho-mai/bpmtt01_30g.jpg" alt="Product-1"/>
-	                                                                            </div>
-																			</div>
-																		</div>
-																		<figcaption>
-																			<div class="shop-loop-product-info">
-																				<div class="info-title">
-																					<h3 class="product_title">Bột phô mai Tornado vị truyền thống (gói 30g)</h3>
-																				</div>
-																			</div>
-																		</figcaption>
-																	</figure>
-																</div>
-															</a>
-														</li>
-														<li class="product">
-															<a href="/bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-cay-goi-1kg.php">
-																<div class="product-container">
-																	<figure>
-																		<div class="product-wrap">
-																			<div class="product-images">
-																				<div class="shop-loop-thumbnail">
-	                                                                                <img width="300" height="350" src="/images/bot-pho-mai/bpmttc01_1kg.jpg" alt="Product-1"/>
-	                                                                            </div>
-																			</div>
-																		</div>
-																		<figcaption>
-																			<div class="shop-loop-product-info">
-																				<div class="info-title">
-																					<h3 class="product_title">Bột phô mai Tornado vị truyền thống cay(gói 1kg)</h3>
-																				</div>
-																			</div>
-																		</figcaption>
-																	</figure>
-																</div>
-															</a>
-														</li>
-														<li class="product">
-															<a href="/bot-pho-mai/bot-pho-mai-tornado-nguyen-chat-goi-1kg.php">
-																<div class="product-container">
-																	<figure>
-																		<div class="product-wrap">
-																			<div class="product-images">
-																				<div class="shop-loop-thumbnail">
-	                                                                                <img width="300" height="350" src="/images/bot-pho-mai/bpmnc01_1kg.jpg" alt="Product-1"/>
-	                                                                            </div>
-																			</div>
-																		</div>
-																		<figcaption>
-																			<div class="shop-loop-product-info">
-																				<div class="info-title">
-																					<h3 class="product_title">Bột phô mai Tornado nguyên chất (gói 1kg)</h3>
-																				</div>
-																			</div>
-																		</figcaption>
-																	</figure>
-																</div>
-															</a>
-														</li>
-														<li class="product">
-															<a href="/bot-pho-mai/custom.php">
-																<div class="product-container">
-																	<figure>
-																		<div class="product-wrap">
-																			<div class="product-images">
-																				<div class="shop-loop-thumbnail">
-	                                                                                <img width="300" height="350" src="/images/bot-pho-mai/custom.jpg" alt="Product-1"/>
-	                                                                            </div>
-																			</div>
-																		</div>
-																		<figcaption>
-																			<div class="shop-loop-product-info">
-																				<div class="info-title">
-																					<h3 class="product_title">Bột phô mai theo yêu cầu của quý khách</h3>
-																				</div>
-																			</div>
-																		</figcaption>
-																	</figure>
-																</div>
-															</a>
-														</li>
-													</ul>
-												</div>
-												<a href="#" class="caroufredsel-prev"></a>
-												<a href="#" class="caroufredsel-next"></a>
-											</div>
+										<div id="banners1" class="owl-carousel owl-theme mobile-margin-top products-list">
+										    <div class="item">
+										    	<a href="/bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-goi-1kg.php">
+											    	<img width="100%" src="/images/bot-pho-mai/bpmtt01_1kg.jpg" alt="Product-1" />
+											    	<h4 class="product_title">Bột phô mai Tornado vị truyền thống (gói 1kg)</h4>
+										    	</a>
+										    </div>
+										    <div class="item">
+										    	<a href="/bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-goi-100g.php">
+											    	<img width="100%" src="/images/bot-pho-mai/bpmtt01_100g.jpg" alt="Product-1" />
+											    	<h4 class="product_title">Bột phô mai Tornado vị truyền thống (gói 100g)</h4>
+										    	</a>
+										    </div>
+										    <div class="item">
+										    	<a href="/bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-goi-30g.php">
+											    	<img width="100%" src="/images/bot-pho-mai/bpmtt01_30g.jpg" alt="Product-1" />
+											    	<h4 class="product_title">Bột phô mai Tornado vị truyền thống (gói 30g)</h4>
+										    	</a>
+										    </div>
+										    <div class="item">
+										    	<a href="/bot-pho-mai/bot-pho-mai-tornado-vi-truyen-thong-cay-goi-1kg.php">
+											    	<img width="100%" src="/images/bot-pho-mai/bpmttc01_1kg.jpg" alt="Product-1" />
+											    	<h4 class="product_title">Bột phô mai Tornado vị truyền thống cay(gói 1kg)</h4>
+										    	</a>
+										    </div>
+										    <div class="item">
+										    	<a href="/bot-pho-mai/bot-pho-mai-tornado-nguyen-chat-goi-1kg.php">
+											    	<img width="100%" src="/images/bot-pho-mai/bpmnc01_1kg.jpg" alt="Product-1" />
+											    	<h4 class="product_title">Bột phô mai Tornado nguyên chất (gói 1kg)</h4>
+										    	</a>
+										    </div>
+										    <div class="item">
+										    	<a href="/bot-pho-mai/custom.php">
+											    	<img width="100%" src="/images/bot-pho-mai/custom.jpg" alt="Product-1" />
+											    	<h4 class="product_title">Bột phô mai theo yêu cầu của quý khách</h4>
+										    	</a>
+										    </div>
 										</div>
 									</div>
 								</div>
@@ -206,37 +102,13 @@
 											</div>
 											<div class="col-sm-2"></div>
 										</div>
-										<div class="caroufredsel product-slider" data-scroll-fx="" data-speed="" data-easing="" data-visible-min="1" data-scroll-item="" data-responsive="1" data-infinite="1" data-autoplay="0">
-											<div class="caroufredsel-wrap">
-												<div class="shop columns-4">
-													<ul class="products columns-4" data-columns="4">
-														<li class="product">
-															<a href="/bot-xi-muoi/bot-xi-muoi-tornado.php">
-																<div class="product-container">
-																	<figure>
-																		<div class="product-wrap">
-																			<div class="product-images">
-																				<div class="shop-loop-thumbnail">
-	                                                                                <img width="300" height="350" src="/images/bot-xi-muoi/bxm01.jpg" alt="Product-1"/>
-	                                                                            </div>
-																			</div>
-																		</div>
-																		<figcaption>
-																			<div class="shop-loop-product-info">
-																				<div class="info-title">
-																					<h3 class="product_title">Bột phô mai Tornado vị truyền thống (gói 1kg)</h3>
-																				</div>
-																			</div>
-																		</figcaption>
-																	</figure>
-																</div>
-															</a>
-														</li>
-													</ul>
-												</div>
-												<a href="#" class="caroufredsel-prev"></a>
-												<a href="#" class="caroufredsel-next"></a>
-											</div>
+										<div id="banners1" class="owl-carousel owl-theme mobile-margin-top products-list">
+										    <div class="item">
+										    	<a href="/bot-xi-muoi/bot-xi-muoi-tornado.php">
+											    	<img width="100%" src="/images/bot-xi-muoi/bxm01.jpg" alt="Product-1" />
+											    	<h4 class="product_title">Bột phô mai Tornado vị truyền thống (gói 1kg)</h4>
+										    	</a>
+										    </div>
 										</div>
 									</div>
 								</div>
