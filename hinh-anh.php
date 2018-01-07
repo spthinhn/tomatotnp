@@ -44,8 +44,8 @@
                 {
                     'title'         : 'Bột phô mai',
                     'description'   : '',
-                    'thumbnail'     : ['/images/bot-pho-mai/bpmttc03_1kgx200.jpg','/images/bot-pho-mai/bpmtt01_1kgx200.jpg'],
-                    'large'         : ['/images/bot-pho-mai/bpmttc03_1kg.jpg','/images/bot-pho-mai/bpmtt01_1kg.jpg'],
+                    'thumbnail'     : ['/images/bot-pho-mai/bpmtt.jpg','/images/bot-pho-mai/bpmtt01_1kgx200.jpg'],
+                    'large'         : ['/images/bot-pho-mai/bpmtt.jpg','/images/bot-pho-mai/bpmtt01_1kg.jpg'],
                     'img_title'     : ['Bột phô mai','Bột phô mai1'],
                     'button_list'   :
                     [
