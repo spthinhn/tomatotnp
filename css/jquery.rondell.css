@@ -4,9 +4,6 @@
   position: relative;
   font-size: 12px;
 }
-.rondell-container.rondell-initializing {
-  background: url("images/loader.gif") no-repeat 50% 50%;
-}
 .rondell-container.rondell-initializing * {
   display: none;
 }
@@ -53,14 +50,7 @@
   text-decoration: none;
 }
 
-.rondell-item-loading {
-  background: #d9d9d9 url("images/item-loader.gif") no-repeat center center !important;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -ms-border-radius: 5px;
-  -o-border-radius: 5px;
-  border-radius: 5px;
-}
+
 .rondell-item-loading * {
   display: none !important;
 }
