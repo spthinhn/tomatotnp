@@ -106,7 +106,7 @@
 										    <div class="item">
 										    	<a href="/bot-xi-muoi/bot-xi-muoi-tornado.php">
 											    	<img width="100%" src="/images/bot-xi-muoi/bxm01.jpg" alt="Product-1" />
-											    	<h4 class="product_title">Bột phô mai Tornado vị truyền thống (gói 1kg)</h4>
+											    	<h4 class="product_title">Bột xí muội Volcano</h4>
 										    	</a>
 										    </div>
 										</div>
