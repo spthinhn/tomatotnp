@@ -4,8 +4,8 @@
             <div class="page-breadcrumb">
                 <ul class="breadcrumb">
                     <li><span><a href="/" class="home"><span>Trang chủ</span></a></span></li>
-                    <li><span><a href="/bot-pho-mai.php" class="san-pham"><span>Bột phô mai</span></a></span></li>
-                    <li><span>Nguyên chất</span></li>
+                    <li><span><a href="/bot-pho-mai.php" class="san-pham"><span><?= $product->category->title ?></span></a></span></li>
+                    <li><span><?= $product->title ?></span></li>
                 </ul>
             </div>
         </div>
@@ -27,29 +27,19 @@
                                         <div class="single-product-images-slider">
                                             <div class="caroufredsel product-images-slider" data-synchronise=".single-product-images-slider-synchronise" data-scrollduration="500" data-height="variable" data-scroll-fx="none" data-visible="1" data-circular="1" data-responsive="1">
                                                 <div class="caroufredsel-wrap">
+                                                    <?php if ($product->product_images): ?>
                                                     <ul class="caroufredsel-items">
+                                                        <?php foreach ($product->product_images as $k => $v): ?>
                                                         <li class="caroufredsel-item">
                                                             <div class="thumb">
-                                                                <a href="/images/bot-pho-mai/bpmnc01_1kg.jpg" data-rel="magnific-popup-verticalfit" title="Product-detail">
-                                                                    <img width="100%" src="/images/bot-pho-mai/bpmnc01_1kg.jpg" />
+                                                                <a href="<?= URL_IMAGE.$v->image ?>" data-rel="magnific-popup-verticalfit" title="Product-detail">
+                                                                    <img width="100%" src="<?= URL_IMAGE.$v->image ?>" />
                                                                 </a>
                                                             </div>
                                                         </li>
-                                                        <li class="caroufredsel-item">
-                                                            <div class="thumb">
-                                                                <a href="/images/bot-pho-mai/bpmnc02_1kg.jpg" data-rel="magnific-popup-verticalfit" title="Product-detail">
-                                                                    <img width="100%" src="/images/bot-pho-mai/bpmnc02_1kg.jpg" />
-                                                                </a>
-                                                            </div>
-                                                        </li>
-                                                        <li class="caroufredsel-item">
-                                                            <div class="thumb">
-                                                                <a href="/images/bot-pho-mai/bpmnc03_1kg.jpg" data-rel="magnific-popup-verticalfit" title="Product-detail">
-                                                                    <img width="100%" src="/images/bot-pho-mai/bpmnc03_1kg.jpg" />
-                                                                </a>
-                                                            </div>
-                                                        </li>
+                                                        <?php endforeach; ?>
                                                     </ul>
+                                                    <?php endif; ?>
                                                     <a href="#" class="caroufredsel-prev"></a>
                                                     <a href="#" class="caroufredsel-next"></a>
                                                 </div>
@@ -58,29 +48,19 @@
                                         <div class="single-product-thumbnails">
                                             <div class="caroufredsel product-thumbnails-slider" data-visible-min="2" data-visible-max="4" data-scrollduration="500" data-direction="up" data-height="100%" data-circular="1" data-responsive="0">
                                                 <div class="caroufredsel-wrap">
+                                                    <?php if ($product->product_images): ?>
                                                     <ul class="single-product-images-slider-synchronise caroufredsel-items">
-                                                        <li class="caroufredsel-item selected">
-                                                            <div class="thumb">
-                                                                <a href="#" data-rel="1" title="Product-detail">
-                                                                    <img width="100%" src="/images/bot-pho-mai/bpmnc01_1kg.jpg"/>
-                                                                </a>
-                                                            </div>
-                                                        </li>
+                                                        <?php foreach ($product->product_images as $k => $v): ?>
                                                         <li class="caroufredsel-item">
                                                             <div class="thumb">
                                                                 <a href="#" data-rel="1" title="Product-detail">
-                                                                    <img width="100%" src="/images/bot-pho-mai/bpmnc02_1kg.jpg"/>
+                                                                    <img width="100%" src="<?= URL_IMAGE.$v->image ?>"/>
                                                                 </a>
                                                             </div>
                                                         </li>
-                                                        <li class="caroufredsel-item">
-                                                            <div class="thumb">
-                                                                <a href="#" data-rel="1" title="Product-detail">
-                                                                    <img width="100%" src="/images/bot-pho-mai/bpmnc03_1kg.jpg"/>
-                                                                </a>
-                                                            </div>
-                                                        </li>
+                                                        <?php endforeach; ?>
                                                     </ul>
+                                                    <?php endif; ?>
                                                 </div>
                                             </div>
                                         </div>
@@ -88,12 +68,10 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 entry-summary">
                                     <div class="summary">
-                                        <h1 class="product_title entry-title">Bột phô mai Tornado nguyên chất (gói 1kg)</h1>
-                                        <p class="price"><span class="amount"><strong>Giá: </strong>380,000 VNĐ </span></p>
+                                        <h1 class="product_title entry-title"><?= $product->title ?></h1>
+                                        <p class="price"><span class="amount"><strong>Giá: </strong><?= $product->price ?> </span></p>
                                         <div class="product-excerpt">
-                                            <p>
-                                                Bột phô mai Tornado vị truyền thống được sản xuất tại Việt Nam theo nguyên liệu và công nghệ Hàn Quốc.
-                                            </p>
+                                            <?= $product->description ?>
                                         </div>
                                     </div> 
                                 </div>
@@ -114,26 +92,7 @@
                                                 </div>
                                                 <div id="collapseGioiThieu" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingGioiThieu">
                                                     <div class="panel-body">
-                                                        <p>
-                                                            Bột phô mai Tornado vị truyền thống được sản xuất tại Việt Nam theo nguyên liệu và công nghệ Hàn Quốc.
-                                                        </p>
-                                                        <p>
-                                                            Bột có dạng mịn, vị phô mai mặn ngọt, màu cam và thơm nồng phô mai
-                                                        </p>
-                                                        <p>
-                                                            Bột được đóng gói trong túi có zipper nên rất tiện lợi cho việc sử dụng và bảo quản.
-                                                        </p>
-                                                        <p>
-                                                            Quy cách đóng gói: 
-                                                            <ul>
-                                                                <li>1 gói 1kg</li>
-                                                                <li>15 gói/ thùng</li>
-                                                                <li>42 thùng (630 kg)/ pallet</li>
-                                                            </ul>
-                                                        </p>
-                                                        <p>
-                                                            Vui lòng liên hệ nếu quý khách muốn đóng gói theo quy cách khác.
-                                                        </p>
+                                                        <?= $product->info ?>
                                                     </div>
                                                 </div>
                                             </div>
@@ -147,9 +106,7 @@
                                                 </div>
                                                 <div id="collapseKLTinh" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingKLTinh">
                                                     <div class="panel-body">
-                                                        <p>
-                                                            1 kg
-                                                        </p>
+                                                        <?= $product->weight ?>
                                                     </div>
                                                 </div>
                                             </div>
@@ -163,12 +120,7 @@
                                                 </div>
                                                 <div id="collapseHDSD" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingHDSD">
                                                     <div class="panel-body">
-                                                        <p>
-                                                            Dùng rắc trực tiếp lên món ăn, không cần qua chế biến.
-                                                        </p>
-                                                        <p>
-                                                            Dùng làm gia vị cho khoai tây lắc, khoai lang lắc, gà chiên, bắp rang phô mai, bánh gạo TteoKbokki và các sản phẩm snack.
-                                                        </p>
+                                                        <?= $product->guide_use ?>
                                                     </div>
                                                 </div>
                                             </div>
@@ -182,9 +134,7 @@
                                                 </div>
                                                 <div id="collapseHDBQ" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingHDBQ">
                                                     <div class="panel-body">
-                                                        <p>
-                                                            Bảo quản nơi khô ráo thoáng  mát, tránh ánh nắng trực tiếp và đậy kín khi đã mở bao bì.
-                                                        </p>
+                                                        <?= $product->guide_use ?>
                                                     </div>
                                                 </div>
                                             </div>
@@ -198,9 +148,7 @@
                                                 </div>
                                                 <div id="collapseHSD" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingHSD">
                                                     <div class="panel-body">
-                                                        <p>
-                                                            1 năm kể từ ngày sản xuất
-                                                        </p>
+                                                        <?= $product->guid_preservation ?>
                                                     </div>
                                                 </div>
                                             </div>
@@ -214,9 +162,7 @@
                                                 </div>
                                                 <div id="collapseHTPP" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingHTPP">
                                                     <div class="panel-body">
-                                                        <p>
-                                                            Liên hệ
-                                                        </p>
+                                                        <?= $product->distribution ?>
                                                     </div>
                                                 </div>
                                             </div>

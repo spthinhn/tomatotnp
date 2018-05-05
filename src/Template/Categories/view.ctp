@@ -28,6 +28,20 @@
                             </div>
                             <div class="row">
                                 <?php foreach ($category->products as $key => $product): ?>
+                                    <?php 
+                                        if ($product->product_images) {
+                                            foreach ($product->product_images as $k => $v) {
+                                                if ($v->image) {
+                                                    $thumbnail = URL_IMAGE.$v->image;
+                                                    break;
+                                                } else {
+                                                    $thumbnail =  '/assets/bpm.jpg';
+                                                }
+                                            }
+                                        } else {
+                                            $thumbnail =  '/assets/bpm.jpg';
+                                        }
+                                    ?>
                                 <div class="col-sm-3">
                                     <div class="thumbnail">
                                         <a href="<?= $this->Url->build([
@@ -35,7 +49,7 @@
                                                             "action" => "view",
                                                             $product->id, $product->alias])
                                                              ?>">
-                                            <img width="100%" src="/images/bot-pho-mai/bpmtt01_1kg.jpg" alt="Product-1" />
+                                            <img width="100%" src="<?= $thumbnail ?>" alt="Product-1" />
                                             <h4 class="product_title"><?= $product->title ?></h4>
                                         </a>
                                     </div>

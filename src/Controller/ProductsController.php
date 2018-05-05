@@ -38,7 +38,7 @@ class ProductsController extends AppController
     {
         $this->viewBuilder()->layout('default');
         $product = $this->Products->get($id, [
-            'contain' => ['Categories']
+            'contain' => ['Categories', 'ProductImages']
         ]);
 
         $this->set('product', $product);
