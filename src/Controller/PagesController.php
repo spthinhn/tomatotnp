@@ -109,7 +109,7 @@ class PagesController extends AppController
         $this->viewBuilder()->layout('default');
         $this->loadModel('Categories');
         $cover = $this->Settings->find('all')->where(['type =' => 'cover-product'])->first();
-        $categories = $this->Categories->find('all')->contain(['Products']);
+        $categories = $this->Categories->find('all')->contain(['Products' => ['ProductImages']]);
         $this->set(compact('categories'));
         $this->set(compact('cover'));
         $this->set('_serialize', ['categories']);

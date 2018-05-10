@@ -11,6 +11,9 @@
 			<div class="col-md-12 main-wrap">
 				<div class="main-content">
 					<?php foreach ($categories as $key => $category): ?>
+						<?php 
+							if (count($category->products) > 0):
+						?>
 						<div class="row section-collection">
 							<div class="col-sm-12">
 								<div class="row inner">
@@ -39,7 +42,25 @@
 	                                                        "action" => "view",
 	                                                        $product->id, $product->alias])
 	                                                         ?>">
-									    	<img width="100%" src="/images/bot-pho-mai/bpmtt01_1kg.jpg" alt="Product-1" />
+	                                            <?php 
+	                                            	if ($product->product_images) {
+			                                            foreach ($product->product_images as $k => $v) {
+			                                                if ($v->image) {
+			                                                    $thumbnail = URL_IMAGE.$v->image;
+			                                                    break;
+			                                                } else {
+			                                                    $thumbnail =  '/assets/bpm.jpg';
+			                                                }
+			                                            }
+			                                        } else {
+			                                            $thumbnail =  '/assets/bpm.jpg';
+			                                        } 
+		                                        ?>
+
+		                                        <img width="100%" src="<?= $thumbnail ?>" alt="Product-1" />
+
+
+									    	
 									    	<h4 class="product_title"><?= $product->title ?></h4>
 								    	</a>
 								    </div>
@@ -47,6 +68,7 @@
 								</div>
 							</div>
 						</div>
+						<?php endif; ?>
 					<?php endforeach; ?>
 				</div>
 			</div>
