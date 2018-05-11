@@ -134,7 +134,7 @@
                                                 </div>
                                                 <div id="collapseHDBQ" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingHDBQ">
                                                     <div class="panel-body">
-                                                        <?= $product->guide_use ?>
+                                                        <?= $product->guid_preservation ?>
                                                     </div>
                                                 </div>
                                             </div>
