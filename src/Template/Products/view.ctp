@@ -4,7 +4,11 @@
             <div class="page-breadcrumb">
                 <ul class="breadcrumb">
                     <li><span><a href="/" class="home"><span>Trang chủ</span></a></span></li>
-                    <li><span><a href="/bot-pho-mai.php" class="san-pham"><span><?= $product->category->title ?></span></a></span></li>
+                    <li><span><a href="<?= $this->Url->build([
+                                            "controller" => "Categories",
+                                            "action" => "view",
+                                            $product->category->id, $product->category->alias])
+                                             ?>" class="san-pham"><span><?= $product->category->title ?></span></a></span></li>
                     <li><span><?= $product->title ?></span></li>
                 </ul>
             </div>
