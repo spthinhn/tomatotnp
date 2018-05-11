@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en-US">
     <?= $this->element('head') ?>
-    <body>
+    <body class="shop">
         <?= $this->element('nav-mobile') ?>
         <div id="wrapper" class="wide-wrap">
             <div class="offcanvas-overlay"></div>
