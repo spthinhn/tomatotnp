@@ -1,6 +1,10 @@
 <div class="content-container no-padding mobile-header">
 	<div class="heading-container heading-resize heading-no-button mobile-margin-top">
-		<img src="/images/lien-he-cover.jpg" width="100%">
+		<?php if ($cover): ?> 
+			<img src="<?= URL_IMAGE.$cover->body ?>" width="100%">
+		<?php else: ?>
+			<img src="/images/lien-he-cover.jpg" width="100%">
+		<?php endif; ?>
 	</div>
 	<div class="container" style="margin-top: 50px">
 		<div class="row">

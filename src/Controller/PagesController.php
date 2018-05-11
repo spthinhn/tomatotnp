@@ -94,29 +94,40 @@ class PagesController extends AppController
     public function news()
     {   
         $this->viewBuilder()->layout('default');
+        $this->loadModel('Settings');
         $this->loadModel('Feeds');
         $feeds = $this->Feeds->find('all')->where(['type =' => 'post']);
+        $cover = $this->Settings->find('all')->where(['type =' => 'cover-news'])->first();
         $this->set(compact('feeds'));
         $this->set('_serialize', ['feeds']);
-
+        $this->set(compact('cover'));
     }
 
     public function products()
     {
+        $this->loadModel('Settings');
         $this->viewBuilder()->layout('default');
         $this->loadModel('Categories');
+        $cover = $this->Settings->find('all')->where(['type =' => 'cover-product'])->first();
         $categories = $this->Categories->find('all')->contain(['Products' => ['ProductImages']]);
         $this->set(compact('categories'));
+        $this->set(compact('cover'));
         $this->set('_serialize', ['categories']);
     }
 
     public function album()
     {
         $this->viewBuilder()->layout('default');
+        $this->loadModel('Settings');
+        $cover = $this->Settings->find('all')->where(['type =' => 'cover-lib'])->first();
+        $this->set(compact('cover'));
     }
 
     public function contact()
     {
         $this->viewBuilder()->layout('default');
+        $this->loadModel('Settings');
+        $cover = $this->Settings->find('all')->where(['type =' => 'cover-contact'])->first();
+        $this->set(compact('cover'));
     }
 }
