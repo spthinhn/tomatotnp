@@ -54,13 +54,13 @@ Router::scope('/', function (RouteBuilder $routes) {
     $routes->connect('/album', ['controller' => 'Pages', 'action' => 'album']);
     $routes->connect('/tin-tuc', ['controller' => 'Pages', 'action' => 'news']);
     $routes->connect('/lien-he', ['controller' => 'Pages', 'action' => 'contact']);
+    $routes->connect('/san-pham', ['controller' => 'Pages', 'action' => 'products']);
     $routes->connect(
         '/tin-tuc/:id/:alias',
         ['controller' => 'Feeds', 'action' => 'view'],
         ['id' => '\d+', 'pass' => ['id','alias']]
     );
 
-    $routes->connect('/san-pham', ['controller' => 'Pages', 'action' => 'products']);
     $routes->connect(
         '/danh-muc/:id-:alias', 
         ['controller' => 'Categories', 'action' => 'view'],
