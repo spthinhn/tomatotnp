@@ -1,6 +1,10 @@
 <div class="content-container no-padding mobile-header">
     <div class="heading-container heading-resize heading-no-button mobile-margin-top">
+    <?php if ($category->cover): ?>
         <img src="<?= URL_IMAGE.$category->cover ?>" width="100%">
+    <?php else: ?>
+        <img src="/images/bot-pho-mai/cover.jpg" width="100%">
+    <?php endif; ?>
     </div>
     <div class="container">
         <div class="row">
