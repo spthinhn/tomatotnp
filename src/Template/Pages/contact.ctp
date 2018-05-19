@@ -18,7 +18,7 @@
 										<div class="title">
 											<h2><?= $company->body ?></h2>
 										</div>
-										<form>
+										<form method="POST">
 											<div class="row">
 												<div class="col-sm-12">
 													<div>Họ tên<br />
@@ -36,8 +36,8 @@
 												</div>
 												<div class="col-sm-12">
 													<div>Số điện thoại<br />
-											    		<p class="form-control-wrap your-email">
-											    			<input type="email" name="your-email" value="" size="40" class="form-control text email validates-as-required validates-as-email" />
+											    		<p class="form-control-wrap your-phone">
+											    			<input type="tel" name="your-phone" value="" size="40" class="form-control text email validates-as-required validates-as-email" />
 											    		</p>
 											    	</div>
 												</div>

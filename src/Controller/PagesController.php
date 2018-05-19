@@ -15,7 +15,7 @@
 namespace App\Controller;
 
 use App\Controller\AppController;
-
+use Cake\Network\Email\Email;
 /**
  * Static content controller
  *
@@ -67,6 +67,23 @@ class PagesController extends AppController
 
     public function home()
     {
+        $email = new Email();
+        $email->transport('mailjet');
+
+
+        try {
+            $res = $email->from(["cocungkhongcho@gmail.com" => "TomatoTNP"])
+                  ->to(['amelywebmaster@gmail.com' => 'My Website'])
+                  ->subject('Contact')                   
+                  ->send('test');
+
+        } catch (Exception $e) {
+
+            echo 'Exception : ',  $e->getMessage(), "\n";
+
+        }
+
+
         $this->viewBuilder()->layout('default');
         $this->loadModel('Settings');
         $this->loadModel('Albums');
@@ -125,6 +142,9 @@ class PagesController extends AppController
 
     public function contact()
     {
+        if ($this->request->is('post')) {
+            var_dump($this->request->data);die('123');
+        }
         $this->viewBuilder()->layout('default');
         $this->loadModel('Settings');
         $cover = $this->Settings->find('all')->where(['type =' => 'cover-contact'])->first();
