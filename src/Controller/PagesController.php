@@ -147,8 +147,8 @@ TXT;
             $mesages = "";
 
             try {
-                $res = $email->from(["cocungkhongcho@gmail.com" => $settings_company])
-                      ->to([$settings_email => "TOMATOTNP"])
+                $res = $email->from(["cocungkhongcho@gmail.com" => $settings_company->body])
+                      ->to([$settings_email->body => "TOMATOTNP"])
                       ->subject('Liên hệ')                   
                       ->send($txt);
                       return $this->redirect(['action' => 'contact']);
