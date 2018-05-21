@@ -67,23 +67,6 @@ class PagesController extends AppController
 
     public function home()
     {
-        $email = new Email();
-        $email->transport('mailjet');
-
-
-        try {
-            $res = $email->from(["cocungkhongcho@gmail.com" => "TomatoTNP"])
-                  ->to(['amelywebmaster@gmail.com' => 'My Website'])
-                  ->subject('Contact')                   
-                  ->send('test');
-
-        } catch (Exception $e) {
-
-            echo 'Exception : ',  $e->getMessage(), "\n";
-
-        }
-
-
         $this->viewBuilder()->layout('default');
         $this->loadModel('Settings');
         $this->loadModel('Albums');
@@ -142,8 +125,37 @@ class PagesController extends AppController
 
     public function contact()
     {
+        $this->loadModel('Settings');
         if ($this->request->is('post')) {
-            var_dump($this->request->data);die('123');
+            $settings_email = $this->Settings->find('all')->where(['type =' => 'email'])->first();
+            $settings_company = $this->Settings->find('all')->where(['type =' => 'company'])->first();
+            $data = $this->request->data;
+      
+            $fullname = $data['your_name'];
+            $phone = $data['your_phone'];
+            $myemail = $data['your_email'];
+            $content = $data['your_message'];
+
+            $email = new Email();
+            $email->transport('mailjet');
+            $txt = <<<TXT
+            Họ tên: $fullname
+            Số điện thoại: $phone
+            Email: $myemail
+            Nội dung: $content
+TXT;
+            $mesages = "";
+
+            try {
+                $res = $email->from(["cocungkhongcho@gmail.com" => $settings_company])
+                      ->to([$settings_email => "TOMATOTNP"])
+                      ->subject('Liên hệ')                   
+                      ->send($txt);
+                      return $this->redirect(['action' => 'contact']);
+            } catch (Exception $e) {
+                echo 'Exception : ',  $e->getMessage(), "\n";
+            }
+
         }
         $this->viewBuilder()->layout('default');
         $this->loadModel('Settings');

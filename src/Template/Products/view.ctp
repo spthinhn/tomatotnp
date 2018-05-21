@@ -1,4 +1,11 @@
 <div class="content-container no-padding mobile-header">
+    <div class="heading-container heading-resize heading-no-button mobile-margin-top">
+        <?php if ($product->category->cover): ?> 
+            <img src="<?= URL_IMAGE.$product->category->cover ?>" width="100%">
+        <?php else: ?>
+            <img src="/images/bot-pho-mai/cover.jpg" width="100%">
+        <?php endif; ?>
+    </div>
     <div class="heading-container" style="margin-bottom: 50px">
         <div class="container heading-standar">
             <div class="page-breadcrumb">
