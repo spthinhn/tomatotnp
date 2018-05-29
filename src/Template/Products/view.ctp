@@ -159,7 +159,7 @@
                                                 </div>
                                                 <div id="collapseHSD" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingHSD">
                                                     <div class="panel-body">
-                                                        <?= $product->guid_preservation ?>
+                                                        <?= $product->expiried ?>
                                                     </div>
                                                 </div>
                                             </div>
