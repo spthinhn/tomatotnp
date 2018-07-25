@@ -18,32 +18,32 @@
 										<div class="title">
 											<h2><?= $company->body ?></h2>
 										</div>
-										<form>
+										<form method="POST">
 											<div class="row">
 												<div class="col-sm-12">
 													<div>Họ tên<br />
 												    	<p class="form-control-wrap your-name">
-												    		<input type="text" name="your-name" value="" size="40" class="form-control text validates-as-required" />
+												    		<input type="text" name="your_name" value="" size="40" class="form-control text validates-as-required" required="true" />
 												    	</p>
 												    </div>
 												</div>
 												<div class="col-sm-12">
 													<div>Email<br />
 											    		<p class="form-control-wrap your-email">
-											    			<input type="email" name="your-email" value="" size="40" class="form-control text email validates-as-required validates-as-email" />
+											    			<input type="email" name="your_email" value="" size="40" class="form-control text email validates-as-required validates-as-email" required="true" />
 											    		</p>
 											    	</div>
 												</div>
 												<div class="col-sm-12">
 													<div>Số điện thoại<br />
-											    		<p class="form-control-wrap your-email">
-											    			<input type="email" name="your-email" value="" size="40" class="form-control text email validates-as-required validates-as-email" />
+											    		<p class="form-control-wrap your-phone">
+											    			<input type="tel" name="your_phone" value="" size="40" class="form-control text email validates-as-required validates-as-email" required="true" />
 											    		</p>
 											    	</div>
 												</div>
 												<div class="col-sm-12">
 													<div>Nội dung<br />
-											    		<p class="form-control-wrap your-message">	<textarea name="your-message" cols="40" rows	="10" class="form-control textarea"></textarea>
+											    		<p class="form-control-wrap your-message">	<textarea name="your_message" cols="40" rows	="10" class="form-control textarea" required="true"></textarea>
 											    		</p>
 											    	</div>
 												</div>

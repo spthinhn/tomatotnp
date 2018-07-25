@@ -15,7 +15,7 @@
 namespace App\Controller;
 
 use App\Controller\AppController;
-
+use Cake\Network\Email\Email;
 /**
  * Static content controller
  *
@@ -125,6 +125,38 @@ class PagesController extends AppController
 
     public function contact()
     {
+        $this->loadModel('Settings');
+        if ($this->request->is('post')) {
+            $settings_email = $this->Settings->find('all')->where(['type =' => 'email'])->first();
+            $settings_company = $this->Settings->find('all')->where(['type =' => 'company'])->first();
+            $data = $this->request->data;
+      
+            $fullname = $data['your_name'];
+            $phone = $data['your_phone'];
+            $myemail = $data['your_email'];
+            $content = $data['your_message'];
+
+            $email = new Email();
+            $email->transport('mailjet');
+            $txt = <<<TXT
+            Họ tên: $fullname
+            Số điện thoại: $phone
+            Email: $myemail
+            Nội dung: $content
+TXT;
+            $mesages = "";
+
+            try {
+                $res = $email->from(["cocungkhongcho@gmail.com" => $settings_company->body])
+                      ->to([$settings_email->body => "TOMATOTNP"])
+                      ->subject('Liên hệ')                   
+                      ->send($txt);
+                      return $this->redirect(['action' => 'contact']);
+            } catch (Exception $e) {
+                echo 'Exception : ',  $e->getMessage(), "\n";
+            }
+
+        }
         $this->viewBuilder()->layout('default');
         $this->loadModel('Settings');
         $cover = $this->Settings->find('all')->where(['type =' => 'cover-contact'])->first();

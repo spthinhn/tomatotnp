@@ -1,10 +1,21 @@
 <div class="content-container no-padding mobile-header">
+    <div class="heading-container heading-resize heading-no-button mobile-margin-top">
+        <?php if ($product->category->cover): ?> 
+            <img src="<?= URL_IMAGE.$product->category->cover ?>" width="100%">
+        <?php else: ?>
+            <img src="/images/bot-pho-mai/cover.jpg" width="100%">
+        <?php endif; ?>
+    </div>
     <div class="heading-container" style="margin-bottom: 50px">
         <div class="container heading-standar">
             <div class="page-breadcrumb">
                 <ul class="breadcrumb">
                     <li><span><a href="/" class="home"><span>Trang chủ</span></a></span></li>
-                    <li><span><a href="/bot-pho-mai.php" class="san-pham"><span><?= $product->category->title ?></span></a></span></li>
+                    <li><span><a href="<?= $this->Url->build([
+                                            "controller" => "Categories",
+                                            "action" => "view",
+                                            $product->category->id, $product->category->alias])
+                                             ?>" class="san-pham"><span><?= $product->category->title ?></span></a></span></li>
                     <li><span><?= $product->title ?></span></li>
                 </ul>
             </div>
@@ -134,7 +145,7 @@
                                                 </div>
                                                 <div id="collapseHDBQ" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingHDBQ">
                                                     <div class="panel-body">
-                                                        <?= $product->guide_use ?>
+                                                        <?= $product->guid_preservation ?>
                                                     </div>
                                                 </div>
                                             </div>
@@ -148,7 +159,7 @@
                                                 </div>
                                                 <div id="collapseHSD" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingHSD">
                                                     <div class="panel-body">
-                                                        <?= $product->guid_preservation ?>
+                                                        <?= $product->expiried ?>
                                                     </div>
                                                 </div>
                                             </div>

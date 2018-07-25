@@ -63,38 +63,29 @@
                             </style>
                             <div class="col-xs-12 hidden-md hidden-lg">
                                 <div id="products" class="owl-carousel owl-theme">
+                                <?php foreach ($categories as $key => $category): ?>
                                     <div class="item">
                                         <div class="title-in product-category-wall">
-                                            <a href="/bot-pho-mai.php">
+                                            <a href="<?= $this->Url->build([
+                                                    "controller" => "Categories",
+                                                    "action" => "view",
+                                                    $category->id,
+                                                    $category->alias,
+                                                ]); ?>">
                                                 <div class="product-category-grid-item">
                                                     <div class="product-category-grid-item-wrap">
                                                         <div class="product-category-grid-featured-wrap">
-                                                            <img src="/images/bot-pho-mai/bpmtt.jpg" width="100%">
+                                                            <img src="<?= URL_IMAGE.$category->thumbnail ?>" width="100%">
                                                         </div>
                                                         <div class="product-category-grid-featured-summary">
-                                                            <h3>Bột phô mai</h3>
+                                                            <h3><?= $category->title ?></h3>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="item">
-                                        <div class="title-in product-category-wall">
-                                            <a href="/bot-xi-muoi.php">
-                                                <div class="product-category-grid-item">
-                                                    <div class="product-category-grid-item-wrap">
-                                                        <div class="product-category-grid-featured-wrap">
-                                                            <img src="/images/bot-xi-muoi/bxm02.jpg" width="100%">
-                                                        </div>
-                                                        <div class="product-category-grid-featured-summary">
-                                                            <h3>Bột xí muội</h3>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
+                                <?php endforeach; ?>
                                 </div>
                             </div>
                             <div class="col-sm-12 hidden-xs hidden-sm hidden-md">
@@ -143,7 +134,7 @@
                                     </a>
                                 </div>
                                 <div class="col-sm-6 footer-service-item">
-                                    <a class="footer-service-item-i" href="hinh-anh.php">
+                                    <a class="footer-service-item-i" href="/thu-vien/album">
                                         <i class="footer-service-icon fa fa-life-bouy"></i>
                                         <h3 class="footer-service-title">Thư viện</h3>
                                         <span class="footer-service-text">

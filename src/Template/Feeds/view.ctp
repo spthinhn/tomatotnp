@@ -4,7 +4,7 @@
             <div class="page-breadcrumb">
                 <ul class="breadcrumb">
                     <li><span><a href="/" class="home"><span>Trang chủ</span></a></span></li>
-                    <li><span><a href="tin-tuc.php" class="home"><span>Tin tức </span></a></span></li>
+                    <li><span><a href="/tin-tuc" class="home"><span>Tin tức </span></a></span></li>
                     <li><span><?= $feed->title ?></span></li>
                 </ul>
             </div>
