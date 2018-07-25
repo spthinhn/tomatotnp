@@ -78,7 +78,7 @@
                                                             <img src="<?= URL_IMAGE.$category->thumbnail ?>" width="100%">
                                                         </div>
                                                         <div class="product-category-grid-featured-summary">
-                                                            <h3><?= $category->title ?></h3>
+                                                            
                                                         </div>
                                                     </div>
                                                 </div>
