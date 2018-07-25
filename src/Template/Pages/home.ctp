@@ -109,7 +109,6 @@
                                                     $category->alias,
                                                 ]); ?>" >
                                                 <img src="<?= URL_IMAGE.$category->thumbnail ?>">
-                                                <h2><?= $category->title ?></h2>
                                             </a>
                                         </div>
                                     </li>
@@ -123,7 +122,6 @@
                                         <div class="slider_wrap">
                                             <a href="<?= $this->Html->link(__($category->title), ['controller' => 'Categories', 'action' => 'view', $category->id, $category->alias]) ?>">
                                                 <img src="<?= URL_IMAGE.$category->thumbnail ?>">
-                                                <h2><?= $category->title ?></h2>
                                             </a>
                                         </div>
                                     </li>
