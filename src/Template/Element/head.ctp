@@ -1,6 +1,10 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+	<?php if ($feed): ?>
+	<meta name="title" content="<?= ($feed->meta_title?$feed->meta_title:'')  ?>" />
+	<meta name="description" content="<?= ($feed->meta_description?$feed->meta_description:'')  ?>" />
+	<?php endif; ?>
 	<title>Tomato TNP</title>
 	<link rel="shortcut icon" href="images/favicon.png">
 
@@ -51,4 +55,5 @@
 			font-weight: bold;
 		}
 	</style>
+
 </head>
