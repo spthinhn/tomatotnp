@@ -5,6 +5,7 @@
 	<meta name="title" content="<?= ($feed->meta_title?$feed->meta_title:'')  ?>" />
 	<meta name="description" content="<?= ($feed->meta_description?$feed->meta_description:'')  ?>" />
 	<?php endif; ?>
+	<meta name="google-site-verification" content="lW7uYC6KU_MpBqzTGnteLS-0ngbNKvgp2OFEurKG7YM" />
 	<title>Tomato TNP</title>
 	<link rel="shortcut icon" href="images/favicon.png">
 

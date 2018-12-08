@@ -167,7 +167,7 @@
                                                 <div class="panel-heading" role="tab" id="headingHTPP">
                                                     <h4 class="panel-title">
                                                         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseHTPP" aria-expanded="false" aria-controls="collapseHTPP">
-                                                            Hệ thống phân phối
+                                                            Liên hệ
                                                         </a>
                                                     </h4>
                                                 </div>

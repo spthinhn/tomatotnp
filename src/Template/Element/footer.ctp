@@ -45,7 +45,17 @@
 				</div>
 				<div class="col-sm-3 col-sm-offset-1">
 					<img src="/images/chungchi.png" width="100%" />
-					<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FPh%25C3%25B4-Mai-H%25C3%25A0n-Qu%25E1%25BB%2591c%2F824398560926201&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=75" scrolling="no" style="border:none; overflow:hidden; height:75px;" allowtransparency="true" frameborder="0"></iframe>
+					<div id="fb-root"></div>
+					<script>
+						(function(d, s, id) {
+						var js, fjs = d.getElementsByTagName(s)[0];
+						if (d.getElementById(id)) return;
+						js = d.createElement(s); js.id = id;
+						js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+						fjs.parentNode.insertBefore(js, fjs);
+						}(document, 'script', 'facebook-jssdk'));
+					</script>
+					<div class="fb-like" data-href="https://www.facebook.com/botphomaiTornado" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 				</div>
 			</div>
 		</div>
