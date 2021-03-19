@@ -1,0 +1,64 @@
+.single-product-slider .zoom {
+  top: 30px;
+  right: 44px;
+  color: #777;
+  width: 80px;
+  height: 80px;
+  z-index: 99;
+  cursor: pointer;
+  text-align: center;
+  line-height: 93px;
+  background-color: #fff;
+  border-radius: 100%;
+  position: absolute;
+  box-shadow: 0 1px 4px 1px rgba(119, 119, 119, 0.16);
+}
+.single-product-slider .zoom img {
+  width: auto;
+  text-align: center;
+  margin: 0 auto;
+  display: inline-block;
+}
+.single-product-slider .thumbnail {
+  border: none;
+}
+.single-product-slider .thumbnail .owl-item {
+  opacity: 0.5;
+}
+.single-product-slider .thumbnail .owl-item.current {
+  opacity: 1;
+}
+.single-product-slider .thumbnail .play-btn {
+  width: 40px;
+  height: 40px;
+}
+.single-product-slider .product-slider-shop {
+  margin-bottom: 5px;
+}
+.vertical-slider .single-product-slider {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row-reverse;
+      flex-direction: row-reverse;
+  -ms-flex-align: center;
+      align-items: center;
+}
+
+#detail-info {
+  margin-bottom: 25px;
+}
+#sanpham {
+  margin-bottom: 25px;
+}
+
+.page-left {
+  margin: 10px;
+}
+
+.page-right {
+  margin: 10px;
+}
+
+#btn-preview-next {
+  margin-top: 60px;
+}
